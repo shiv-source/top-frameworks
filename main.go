@@ -9,6 +9,7 @@ import (
 	"os"
 	"sort"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -46,6 +47,9 @@ func main() {
 	githubUrl := "https://github.com/"
 	github_access_token := os.Getenv("MY_GITHUB_ACCESS_TOKEN")
 
+	ch := make(chan Repo)
+	var wg sync.WaitGroup
+
 	projects := []Repo{}
 
 	fmt.Println("Fetching data from Github")
@@ -54,15 +58,23 @@ func main() {
 		if strings.HasPrefix(url, githubUrl) {
 
 			repoFullName := strings.TrimPrefix(url, githubUrl)
-			
+
 			repoUrl := fmt.Sprintf("https://api.github.com/repos/%s", repoFullName)
-			
+
 			commitUrl := fmt.Sprintf("https://api.github.com/repos/%s/commits", repoFullName)
 
-			project := getRepoInfo(repoUrl, github_access_token, commitUrl)
-
-			projects = append(projects, project)
+			wg.Add(1)
+			go getRepoInfo(repoUrl, github_access_token, commitUrl, ch, &wg)
 		}
+	}
+
+	go func() {
+		wg.Wait()
+		close(ch)
+	}()
+
+	for res := range ch {
+		projects = append(projects, res)
 	}
 
 	sort.Slice(projects, func(i, j int) bool {
@@ -72,6 +84,7 @@ func main() {
 	saveToReadme(projects, "readme.md")
 
 	fmt.Println("Total Projects: =", len(urls))
+	fmt.Println("Done!!!")
 }
 
 func loadProjects(fileName string) []string {
@@ -91,7 +104,7 @@ func loadProjects(fileName string) []string {
 func getData(url string, token string, target interface{}) error {
 
 	req, err := http.NewRequest("GET", url, nil)
-	req.Header.Set("Authorization", fmt.Sprintf("token %s", token ))
+	req.Header.Set("Authorization", fmt.Sprintf("token %s", token))
 
 	if err != nil {
 		fmt.Println(err)
@@ -121,7 +134,8 @@ func getCommitInfo(commitUrl string, token string) string {
 	return commit[0].Commit.Committer.Date.Format("2006-01-02 15:04:05")
 }
 
-func getRepoInfo(repoUrl string, github_access_token string, commitUrl string) Repo {
+func getRepoInfo(repoUrl string, github_access_token string, commitUrl string, ch chan<- Repo, wg *sync.WaitGroup) {
+	defer wg.Done()
 
 	var repo Repo
 
@@ -133,7 +147,7 @@ func getRepoInfo(repoUrl string, github_access_token string, commitUrl string) R
 
 	repo.LastCommitDate = getCommitInfo(commitUrl, github_access_token)
 
-	return repo
+	ch <- repo
 }
 
 func saveToReadme(repos []Repo, fileName string) {
