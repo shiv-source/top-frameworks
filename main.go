@@ -48,6 +48,7 @@ func main() {
 
 	projects := []Repo{}
 
+	fmt.Println("Fetching data from Github")
 	for _, url := range urls {
 
 		if strings.HasPrefix(url, githubUrl) {
@@ -90,7 +91,7 @@ func loadProjects(fileName string) []string {
 func getData(url string, token string, target interface{}) error {
 
 	req, err := http.NewRequest("GET", url, nil)
-	req.Header.Set("Authorization", token)
+	req.Header.Set("Authorization", fmt.Sprintf("token %s", token ))
 
 	if err != nil {
 		fmt.Println(err)
