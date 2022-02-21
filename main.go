@@ -144,7 +144,7 @@ Please update the project-list.txt file.
 | SL| Name  | Stars| Forks| Issues | Language | Description | Last Commit |
 | --| ------| -----| ---- | ------ | -------- | ----------- | ----------- |
 `
-
+	footer := "\n### Last updated at : %s\n"
 	readme, err := os.OpenFile(fileName, os.O_RDWR|os.O_TRUNC|os.O_CREATE, 0666)
 
 	if err != nil {
@@ -160,6 +160,6 @@ Please update the project-list.txt file.
 
 		readme.WriteString(fmt.Sprintf("| %d | [%s](%s) | %d | %d | %d | %s | %s | %s |\n", i+1, repo.Name, repo.URL, repo.Stars, repo.Forks, repo.Issues, repo.Language, description, repo.LastCommitDate))
 	}
-
+	readme.WriteString(fmt.Sprintf(footer, time.Now().Format("2006-01-02 15:04:05")))
 	fmt.Println("Successfully written the Markdown file")
 }
