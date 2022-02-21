@@ -19,6 +19,9 @@ jobs:
 
       - name: Download dependencies
         run: go mod download
+      - name: Run go project
+        run: go run main.go
+
         env:
           MY_GITHUB_EMAIL: ${{ secrets.MY_GITHUB_EMAIL }}
           MY_GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}
@@ -29,5 +32,6 @@ jobs:
           git config user.name "${{ secrets.MY_GITHUB_USERNAME }}"
           git config user.email " ${{ secrets.MY_GITHUB_EMAIL }}"
           git checkout master
+          git add .
           git commit -m "project list updated"
           git push -u origin master
