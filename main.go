@@ -44,7 +44,7 @@ func main() {
 	fileName := "project-list.txt"
 	urls := loadProjects(fileName)
 	githubUrl := "https://github.com/"
-	github_access_token := os.Getenv("GITHUB_ACCESS_TOKEN")
+	github_access_token := os.Getenv("MY_GITHUB_ACCESS_TOKEN")
 
 	projects := []Repo{}
 
@@ -53,12 +53,10 @@ func main() {
 		if strings.HasPrefix(url, githubUrl) {
 
 			repoFullName := strings.TrimPrefix(url, githubUrl)
-			fmt.Println(repoFullName)
-
+			
 			repoUrl := fmt.Sprintf("https://api.github.com/repos/%s", repoFullName)
+			
 			commitUrl := fmt.Sprintf("https://api.github.com/repos/%s/commits", repoFullName)
-
-			fmt.Println(repoUrl)
 
 			project := getRepoInfo(repoUrl, github_access_token, commitUrl)
 
