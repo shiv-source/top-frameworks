@@ -5,7 +5,7 @@ Please update the project-list.txt file.
 | SL| Name  | Stars| Forks| Issues | Language | Description | Last Commit |
 | --| ------| -----| ---- | ------ | -------- | ----------- | ----------- |
 | 1 | [vue](https://github.com/vuejs/vue) | 193269 | 31482 | 560 | JavaScript | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2022-02-22 18:38:12 |
-| 2 | [react](https://github.com/facebook/react) | 182829 | 37300 | 979 | JavaScript | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-02-23 05:33:41 |
+| 2 | [react](https://github.com/facebook/react) | 182829 | 37301 | 979 | JavaScript | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-02-23 05:33:41 |
 | 3 | [angular](https://github.com/angular/angular) | 79749 | 20969 | 1737 | TypeScript | The modern web developer’s platform | 2022-02-22 23:35:16 |
 | 4 | [django](https://github.com/django/django) | 62517 | 26618 | 166 | Python | The Web framework for perfectionists with deadlines. | 2022-02-23 06:29:15 |
 | 5 | [flask](https://github.com/pallets/flask) | 58061 | 14871 | 13 | Python | The Python micro framework for building web applications. | 2022-02-23 03:13:29 |
@@ -37,4 +37,4 @@ Please update the project-list.txt file.
 | 31 | [cherrypy](https://github.com/cherrypy/cherrypy) | 1498 | 332 | 221 | Python | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-02-14 20:44:10 |
 | 32 | [gwt](https://github.com/gwtproject/gwt) | 1322 | 316 | 826 | Java | GWT Open Source Project | 2022-02-10 23:35:12 |
 
-### Last updated at : 2022-02-23 12:44:57
+### Last updated at : 2022-02-23 07:16:48
