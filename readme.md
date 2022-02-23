@@ -4,37 +4,37 @@ Please update the project-list.txt file.
 
 | SL| Name  | Stars| Forks| Issues | Language | Description | Last Commit |
 | --| ------| -----| ---- | ------ | -------- | ----------- | ----------- |
-| 1 | [vue](https://github.com/vuejs/vue) | 193231 | 31474 | 560 | JavaScript | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2022-02-07 05:24:20 |
-| 2 | [react](https://github.com/facebook/react) | 182753 | 37271 | 974 | JavaScript | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-02-21 06:07:41 |
-| 3 | [angular](https://github.com/angular/angular) | 79724 | 20967 | 1735 | TypeScript | The modern web developer’s platform | 2022-02-18 21:57:03 |
-| 4 | [django](https://github.com/django/django) | 62487 | 26615 | 170 | Python | The Web framework for perfectionists with deadlines. | 2022-02-21 09:11:26 |
-| 5 | [flask](https://github.com/pallets/flask) | 58031 | 14871 | 13 | Python | The Python micro framework for building web applications. | 2022-02-19 15:12:40 |
-| 6 | [svelte](https://github.com/sveltejs/svelte) | 56119 | 2734 | 680 | TypeScript | Cybernetically enhanced web apps | 2022-02-19 20:56:52 |
-| 7 | [express](https://github.com/expressjs/express) | 56031 | 9483 | 158 | JavaScript | Fast, unopinionated, minimalist web framework for node. | 2022-02-22 00:23:25 |
-| 8 | [gin](https://github.com/gin-gonic/gin) | 55761 | 6312 | 485 | Go | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2022-02-14 06:39:57 |
-| 9 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 49874 | 5142 | 1056 | JavaScript | Semantic is a UI component framework based around useful principles from natural language. | 2018-10-21 20:59:02 |
-| 10 | [spring-framework](https://github.com/spring-projects/spring-framework) | 46242 | 32675 | 1256 | Java | Spring Framework | 2022-02-19 16:32:15 |
-| 11 | [nest](https://github.com/nestjs/nest) | 44752 | 4886 | 101 | TypeScript | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 2022-02-21 12:02:32 |
-| 12 | [meteor](https://github.com/meteor/meteor) | 42814 | 5199 | 114 | JavaScript | Meteor, the JavaScript App Platform | 2022-02-18 20:34:26 |
-| 13 | [nuxt.js](https://github.com/nuxt/nuxt.js) | 39447 | 3204 | 502 | JavaScript | The Intuitive Vue(2) Framework | 2021-12-17 13:20:07 |
-| 14 | [koa](https://github.com/koajs/koa) | 32310 | 3143 | 62 | JavaScript | Expressive middleware for node.js using ES2017 async functions | 2022-02-08 16:08:52 |
-| 15 | [backbone](https://github.com/jashkenas/backbone) | 27848 | 5607 | 70 | JavaScript | Give your JS App some Backbone with Models, Views, Collections, and Events | 2022-02-19 20:58:16 |
-| 16 | [beego](https://github.com/beego/beego) | 27758 | 5418 | 27 | Go | beego is an open-source, high-performance web framework for the Go programming language. | 2022-02-06 15:12:12 |
-| 17 | [symfony](https://github.com/symfony/symfony) | 26521 | 8561 | 763 | PHP | The Symfony PHP framework | 2022-02-21 20:11:06 |
-| 18 | [framework](https://github.com/laravel/framework) | 26299 | 8933 | 8 | PHP | The Laravel Framework. | 2022-02-21 21:16:53 |
-| 19 | [sails](https://github.com/balderdashy/sails) | 22173 | 1946 | 519 | JavaScript | Realtime MVC Framework for Node.js | 2022-01-14 23:55:08 |
-| 20 | [ember.js](https://github.com/emberjs/ember.js) | 22145 | 4271 | 421 | JavaScript | Ember.js - A JavaScript framework for creating ambitious web applications | 2022-02-19 00:41:10 |
-| 21 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18171 | 7789 | 10 | PHP | Open Source PHP Framework (originally from EllisLab) | 2022-02-21 20:37:45 |
-| 22 | [dash](https://github.com/plotly/dash) | 15960 | 1648 | 585 | Python | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2022-02-18 14:48:16 |
-| 23 | [hapi](https://github.com/hapijs/hapi) | 13714 | 1347 | 34 | JavaScript | The Simple, Secure Framework Developers Trust | 2022-01-23 17:21:11 |
-| 24 | [aiohttp](https://github.com/aio-libs/aiohttp) | 12169 | 1716 | 411 | Python | Asynchronous HTTP client/server framework for asyncio and Python | 2022-02-16 13:11:19 |
-| 25 | [falcon](https://github.com/falconry/falcon) | 8692 | 865 | 168 | Python | The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. | 2022-02-21 06:31:43 |
-| 26 | [cakephp](https://github.com/cakephp/cakephp) | 8464 | 3468 | 46 | PHP | CakePHP: The Rapid Development Framework for PHP - Official Repository | 2022-02-14 06:02:12 |
-| 27 | [bottle](https://github.com/bottlepy/bottle) | 7530 | 1409 | 320 | Python | bottle.py is a fast and simple micro-framework for python web-applications. | 2022-02-02 12:34:31 |
-| 28 | [go-swagger](https://github.com/go-swagger/go-swagger) | 7261 | 1088 | 514 | Go | Swagger 2.0 implementation for go | 2022-02-19 17:08:03 |
-| 29 | [blade](https://github.com/lets-blade/blade) | 5592 | 1146 | 68 | Java | :rocket: Lightning fast and elegant mvc framework for Java8 | 2020-03-22 13:39:23 |
-| 30 | [pyramid](https://github.com/Pylons/pyramid) | 3637 | 877 | 76 | Python | Pyramid - A Python web framework | 2022-02-07 05:45:49 |
-| 31 | [cherrypy](https://github.com/cherrypy/cherrypy) | 1499 | 332 | 220 | Python | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-02-14 20:44:10 |
+| 1 | [vue](https://github.com/vuejs/vue) | 193259 | 31477 | 559 | JavaScript | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2022-02-22 18:38:12 |
+| 2 | [react](https://github.com/facebook/react) | 182805 | 37293 | 975 | JavaScript | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-02-21 06:07:41 |
+| 3 | [angular](https://github.com/angular/angular) | 79746 | 20970 | 1735 | TypeScript | The modern web developer’s platform | 2022-02-22 23:35:16 |
+| 4 | [django](https://github.com/django/django) | 62511 | 26619 | 167 | Python | The Web framework for perfectionists with deadlines. | 2022-02-22 19:26:51 |
+| 5 | [flask](https://github.com/pallets/flask) | 58053 | 14871 | 13 | Python | The Python micro framework for building web applications. | 2022-02-19 15:12:40 |
+| 6 | [svelte](https://github.com/sveltejs/svelte) | 56161 | 2738 | 682 | TypeScript | Cybernetically enhanced web apps | 2022-02-22 16:39:27 |
+| 7 | [express](https://github.com/expressjs/express) | 56051 | 9489 | 155 | JavaScript | Fast, unopinionated, minimalist web framework for node. | 2022-02-22 00:54:52 |
+| 8 | [gin](https://github.com/gin-gonic/gin) | 55785 | 6310 | 486 | Go | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2022-02-14 06:39:57 |
+| 9 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 49878 | 5140 | 1056 | JavaScript | Semantic is a UI component framework based around useful principles from natural language. | 2018-10-21 20:59:02 |
+| 10 | [spring-framework](https://github.com/spring-projects/spring-framework) | 46263 | 32690 | 1260 | Java | Spring Framework | 2022-02-22 15:07:52 |
+| 11 | [nest](https://github.com/nestjs/nest) | 44776 | 4897 | 100 | TypeScript | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 2022-02-22 08:19:37 |
+| 12 | [meteor](https://github.com/meteor/meteor) | 42816 | 5197 | 114 | JavaScript | Meteor, the JavaScript App Platform | 2022-02-18 20:34:26 |
+| 13 | [nuxt.js](https://github.com/nuxt/nuxt.js) | 39453 | 3205 | 501 | JavaScript | The Intuitive Vue(2) Framework | 2021-12-17 13:20:07 |
+| 14 | [koa](https://github.com/koajs/koa) | 32317 | 3142 | 62 | JavaScript | Expressive middleware for node.js using ES2017 async functions | 2022-02-22 16:09:56 |
+| 15 | [backbone](https://github.com/jashkenas/backbone) | 27850 | 5606 | 70 | JavaScript | Give your JS App some Backbone with Models, Views, Collections, and Events | 2022-02-19 20:58:16 |
+| 16 | [beego](https://github.com/beego/beego) | 27764 | 5420 | 28 | Go | beego is an open-source, high-performance web framework for the Go programming language. | 2022-02-06 15:12:12 |
+| 17 | [symfony](https://github.com/symfony/symfony) | 26523 | 8565 | 766 | PHP | The Symfony PHP framework | 2022-02-21 20:11:06 |
+| 18 | [framework](https://github.com/laravel/framework) | 26307 | 8937 | 12 | PHP | The Laravel Framework. | 2022-02-22 18:46:49 |
+| 19 | [sails](https://github.com/balderdashy/sails) | 22174 | 1947 | 519 | JavaScript | Realtime MVC Framework for Node.js | 2022-01-14 23:55:08 |
+| 20 | [ember.js](https://github.com/emberjs/ember.js) | 22145 | 4270 | 422 | JavaScript | Ember.js - A JavaScript framework for creating ambitious web applications | 2022-02-19 00:41:10 |
+| 21 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18170 | 7790 | 10 | PHP | Open Source PHP Framework (originally from EllisLab) | 2022-02-21 20:37:45 |
+| 22 | [dash](https://github.com/plotly/dash) | 15970 | 1649 | 586 | Python | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2022-02-18 14:48:16 |
+| 23 | [hapi](https://github.com/hapijs/hapi) | 13715 | 1348 | 35 | JavaScript | The Simple, Secure Framework Developers Trust | 2022-01-23 17:21:11 |
+| 24 | [aiohttp](https://github.com/aio-libs/aiohttp) | 12174 | 1716 | 411 | Python | Asynchronous HTTP client/server framework for asyncio and Python | 2022-02-16 13:11:19 |
+| 25 | [falcon](https://github.com/falconry/falcon) | 8693 | 865 | 168 | Python | The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. | 2022-02-21 06:31:43 |
+| 26 | [cakephp](https://github.com/cakephp/cakephp) | 8465 | 3468 | 39 | PHP | CakePHP: The Rapid Development Framework for PHP - Official Repository | 2022-02-14 06:02:12 |
+| 27 | [bottle](https://github.com/bottlepy/bottle) | 7535 | 1409 | 320 | Python | bottle.py is a fast and simple micro-framework for python web-applications. | 2022-02-02 12:34:31 |
+| 28 | [go-swagger](https://github.com/go-swagger/go-swagger) | 7265 | 1089 | 514 | Go | Swagger 2.0 implementation for go | 2022-02-19 17:08:03 |
+| 29 | [blade](https://github.com/lets-blade/blade) | 5594 | 1146 | 68 | Java | :rocket: Lightning fast and elegant mvc framework for Java8 | 2020-03-22 13:39:23 |
+| 30 | [pyramid](https://github.com/Pylons/pyramid) | 3636 | 877 | 76 | Python | Pyramid - A Python web framework | 2022-02-07 05:45:49 |
+| 31 | [cherrypy](https://github.com/cherrypy/cherrypy) | 1498 | 332 | 221 | Python | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-02-14 20:44:10 |
 | 32 | [gwt](https://github.com/gwtproject/gwt) | 1322 | 316 | 826 | Java | GWT Open Source Project | 2022-02-10 23:35:12 |
 
-### Last updated at : 2022-02-22 00:45:35
+### Last updated at : 2022-02-23 00:53:09
