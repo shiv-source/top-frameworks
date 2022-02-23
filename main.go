@@ -82,6 +82,7 @@ func main() {
 	})
 
 	saveToReadme(projects, "readme.md")
+	saveToJson(projects, "frameworks.json")
 
 	fmt.Println("Total Projects: =", len(urls))
 	fmt.Println("Done!!!")
@@ -177,4 +178,19 @@ Please update the project-list.txt file.
 	}
 	readme.WriteString(fmt.Sprintf(footer, time.Now().Format("2006-01-02 15:04:05")))
 	fmt.Println("Successfully written the Markdown file")
+}
+
+
+func saveToJson(projects []Repo, fileName string) {
+
+	jsonBytes, err := json.MarshalIndent(projects, "", " ")
+
+	if err != nil {
+		fmt.Println(err)
+	}
+	err = ioutil.WriteFile(fileName, jsonBytes, 0644)
+
+	if err != nil {
+		fmt.Println(err)
+	}
 }
