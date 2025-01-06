@@ -1,21 +1,21 @@
 [
  {
   "name": "react",
-  "stargazers_count": 231047,
-  "forks_count": 47305,
-  "open_issues_count": 933,
+  "stargazers_count": 231065,
+  "forks_count": 47306,
+  "open_issues_count": 935,
   "html_url": "https://github.com/facebook/react",
   "description": "The library for web and native user interfaces.",
   "private": false,
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/facebook/react/commits{/sha}",
   "language": "JavaScript",
-  "LastCommitDate": "2025-01-03 17:53:28"
+  "LastCommitDate": "2025-01-05 22:10:29"
  },
  {
   "name": "vue",
-  "stargazers_count": 208239,
-  "forks_count": 33690,
+  "stargazers_count": 208241,
+  "forks_count": 33691,
   "open_issues_count": 600,
   "html_url": "https://github.com/vuejs/vue",
   "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
@@ -27,9 +27,9 @@
  },
  {
   "name": "angular",
-  "stargazers_count": 96575,
-  "forks_count": 25673,
-  "open_issues_count": 1740,
+  "stargazers_count": 96581,
+  "forks_count": 25674,
+  "open_issues_count": 1742,
   "html_url": "https://github.com/angular/angular",
   "description": "Deliver web apps with confidence 🚀",
   "private": false,
@@ -40,8 +40,8 @@
  },
  {
   "name": "django",
-  "stargazers_count": 81707,
-  "forks_count": 32017,
+  "stargazers_count": 81717,
+  "forks_count": 32021,
   "open_issues_count": 297,
   "html_url": "https://github.com/django/django",
   "description": "The Web framework for perfectionists with deadlines.",
@@ -53,22 +53,22 @@
  },
  {
   "name": "svelte",
-  "stargazers_count": 80754,
+  "stargazers_count": 80762,
   "forks_count": 4321,
-  "open_issues_count": 805,
+  "open_issues_count": 812,
   "html_url": "https://github.com/sveltejs/svelte",
   "description": "web development for the rest of us",
   "private": false,
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/sveltejs/svelte/commits{/sha}",
   "language": "JavaScript",
-  "LastCommitDate": "2025-01-03 20:40:31"
+  "LastCommitDate": "2025-01-05 20:38:17"
  },
  {
   "name": "gin",
-  "stargazers_count": 79729,
-  "forks_count": 8066,
-  "open_issues_count": 828,
+  "stargazers_count": 79737,
+  "forks_count": 8067,
+  "open_issues_count": 829,
   "html_url": "https://github.com/gin-gonic/gin",
   "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
   "private": false,
@@ -79,8 +79,8 @@
  },
  {
   "name": "spring-boot",
-  "stargazers_count": 75755,
-  "forks_count": 40828,
+  "stargazers_count": 75763,
+  "forks_count": 40830,
   "open_issues_count": 569,
   "html_url": "https://github.com/spring-projects/spring-boot",
   "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
@@ -88,24 +88,24 @@
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/spring-projects/spring-boot/commits{/sha}",
   "language": "Java",
-  "LastCommitDate": "2025-01-02 15:36:39"
+  "LastCommitDate": "2025-01-05 07:03:56"
  },
  {
   "name": "nest",
-  "stargazers_count": 68708,
-  "forks_count": 7699,
-  "open_issues_count": 59,
+  "stargazers_count": 68725,
+  "forks_count": 7701,
+  "open_issues_count": 58,
   "html_url": "https://github.com/nestjs/nest",
   "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
   "private": false,
   "default_branch": "master",
   "commits_url": "https://api.github.com/repos/nestjs/nest/commits{/sha}",
   "language": "TypeScript",
-  "LastCommitDate": "2024-12-27 09:56:32"
+  "LastCommitDate": "2025-01-05 11:09:36"
  },
  {
   "name": "flask",
-  "stargazers_count": 68486,
+  "stargazers_count": 68496,
   "forks_count": 16248,
   "open_issues_count": 7,
   "html_url": "https://github.com/pallets/flask",
@@ -114,12 +114,12 @@
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/pallets/flask/commits{/sha}",
   "language": "Python",
-  "LastCommitDate": "2024-11-24 01:54:29"
+  "LastCommitDate": "2025-01-05 17:10:00"
  },
  {
   "name": "express",
-  "stargazers_count": 66004,
-  "forks_count": 16944,
+  "stargazers_count": 66009,
+  "forks_count": 16954,
   "open_issues_count": 215,
   "html_url": "https://github.com/expressjs/express",
   "description": "Fast, unopinionated, minimalist web framework for node.",
@@ -131,33 +131,33 @@
  },
  {
   "name": "spring-framework",
-  "stargazers_count": 57046,
-  "forks_count": 38278,
-  "open_issues_count": 312,
+  "stargazers_count": 57049,
+  "forks_count": 38280,
+  "open_issues_count": 311,
   "html_url": "https://github.com/spring-projects/spring-framework",
   "description": "Spring Framework",
   "private": false,
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/spring-projects/spring-framework/commits{/sha}",
   "language": "Java",
-  "LastCommitDate": "2025-01-04 13:59:47"
+  "LastCommitDate": "2025-01-05 15:02:14"
  },
  {
   "name": "nuxt",
-  "stargazers_count": 55586,
-  "forks_count": 5081,
-  "open_issues_count": 885,
+  "stargazers_count": 55594,
+  "forks_count": 5082,
+  "open_issues_count": 888,
   "html_url": "https://github.com/nuxt/nuxt",
   "description": "The Intuitive Vue Framework.",
   "private": false,
   "default_branch": "main",
   "commits_url": "https://api.github.com/repos/nuxt/nuxt/commits{/sha}",
   "language": "TypeScript",
-  "LastCommitDate": "2025-01-05 00:34:55"
+  "LastCommitDate": "2025-01-05 14:35:59"
  },
  {
   "name": "Semantic-UI",
-  "stargazers_count": 51115,
+  "stargazers_count": 51117,
   "forks_count": 4941,
   "open_issues_count": 1075,
   "html_url": "https://github.com/Semantic-Org/Semantic-UI",
@@ -170,7 +170,7 @@
  },
  {
   "name": "meteor",
-  "stargazers_count": 44493,
+  "stargazers_count": 44492,
   "forks_count": 5196,
   "open_issues_count": 342,
   "html_url": "https://github.com/meteor/meteor",
@@ -184,7 +184,7 @@
  {
   "name": "koa",
   "stargazers_count": 35293,
-  "forks_count": 3225,
+  "forks_count": 3224,
   "open_issues_count": 30,
   "html_url": "https://github.com/koajs/koa",
   "description": "Expressive middleware for node.js using ES2017 async functions",
@@ -196,9 +196,9 @@
  },
  {
   "name": "framework",
-  "stargazers_count": 32873,
-  "forks_count": 11118,
-  "open_issues_count": 71,
+  "stargazers_count": 32885,
+  "forks_count": 11117,
+  "open_issues_count": 69,
   "html_url": "https://github.com/laravel/framework",
   "description": "The Laravel Framework.",
   "private": false,
@@ -209,8 +209,8 @@
  },
  {
   "name": "beego",
-  "stargazers_count": 31743,
-  "forks_count": 5626,
+  "stargazers_count": 31746,
+  "forks_count": 5627,
   "open_issues_count": 11,
   "html_url": "https://github.com/beego/beego",
   "description": "beego is an open-source, high-performance web framework for the Go programming language.",
@@ -222,16 +222,16 @@
  },
  {
   "name": "symfony",
-  "stargazers_count": 29900,
-  "forks_count": 9492,
-  "open_issues_count": 919,
+  "stargazers_count": 29901,
+  "forks_count": 9494,
+  "open_issues_count": 893,
   "html_url": "https://github.com/symfony/symfony",
   "description": "The Symfony PHP framework",
   "private": false,
   "default_branch": "7.3",
   "commits_url": "https://api.github.com/repos/symfony/symfony/commits{/sha}",
   "language": "PHP",
-  "LastCommitDate": "2025-01-04 18:32:16"
+  "LastCommitDate": "2025-01-05 21:14:59"
  },
  {
   "name": "backbone",
@@ -248,7 +248,7 @@
  },
  {
   "name": "sails",
-  "stargazers_count": 22868,
+  "stargazers_count": 22870,
   "forks_count": 1951,
   "open_issues_count": 592,
   "html_url": "https://github.com/balderdashy/sails",
@@ -261,7 +261,7 @@
  },
  {
   "name": "ember.js",
-  "stargazers_count": 22497,
+  "stargazers_count": 22499,
   "forks_count": 4206,
   "open_issues_count": 382,
   "html_url": "https://github.com/emberjs/ember.js",
@@ -274,7 +274,7 @@
  },
  {
   "name": "dash",
-  "stargazers_count": 21754,
+  "stargazers_count": 21757,
   "forks_count": 2091,
   "open_issues_count": 507,
   "html_url": "https://github.com/plotly/dash",
@@ -300,7 +300,7 @@
  },
  {
   "name": "aiohttp",
-  "stargazers_count": 15288,
+  "stargazers_count": 15290,
   "forks_count": 2037,
   "open_issues_count": 244,
   "html_url": "https://github.com/aio-libs/aiohttp",
@@ -326,8 +326,8 @@
  },
  {
   "name": "go-swagger",
-  "stargazers_count": 9603,
-  "forks_count": 1262,
+  "stargazers_count": 9604,
+  "forks_count": 1261,
   "open_issues_count": 601,
   "html_url": "https://github.com/go-swagger/go-swagger",
   "description": "Swagger 2.0 implementation for go",
@@ -339,7 +339,7 @@
  },
  {
   "name": "falcon",
-  "stargazers_count": 9559,
+  "stargazers_count": 9562,
   "forks_count": 948,
   "open_issues_count": 167,
   "html_url": "https://github.com/falconry/falcon",
@@ -352,9 +352,9 @@
  },
  {
   "name": "cakephp",
-  "stargazers_count": 8705,
+  "stargazers_count": 8706,
   "forks_count": 3414,
-  "open_issues_count": 68,
+  "open_issues_count": 70,
   "html_url": "https://github.com/cakephp/cakephp",
   "description": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
   "private": false,
@@ -365,7 +365,7 @@
  },
  {
   "name": "bottle",
-  "stargazers_count": 8500,
+  "stargazers_count": 8501,
   "forks_count": 1465,
   "open_issues_count": 293,
   "html_url": "https://github.com/bottlepy/bottle",
@@ -391,8 +391,8 @@
  },
  {
   "name": "pyramid",
-  "stargazers_count": 3997,
-  "forks_count": 887,
+  "stargazers_count": 3999,
+  "forks_count": 888,
   "open_issues_count": 78,
   "html_url": "https://github.com/Pylons/pyramid",
   "description": "Pyramid - A Python web framework",
