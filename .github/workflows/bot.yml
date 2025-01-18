@@ -2,24 +2,15 @@ name: Go_Bot
 
 on:
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Set up Go
-        uses: actions/setup-go@v2
-        with:
-          go-version: 1.17
-
-      - name: Download dependencies
-        run: go mod download
-      - name: Run go project
-        run: go run main.go
-
+      - uses: actions/checkout@v4
+      - name: Run go executable file
+        run: ./main
         env:
           MY_GITHUB_EMAIL: ${{ secrets.MY_GITHUB_EMAIL }}
           MY_GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}
@@ -31,5 +22,5 @@ jobs:
           git config user.email " ${{ secrets.MY_GITHUB_EMAIL }}"
           git checkout master
           git add .
-          git commit -m "framework list updated"
+          git commit -m "chore: framework list updated"
           git push -u origin master
