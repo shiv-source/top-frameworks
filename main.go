@@ -1,11 +1,10 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
-	"github.com/joho/godotenv"
-	"io/ioutil"
-	"net/http"
+	"github.com/shiv-source/frameworkinsights/utils"
+	"github.com/shiv-source/markdownTable"
+	"math"
 	"os"
 	"sort"
 	"strings"
@@ -13,58 +12,60 @@ import (
 	"time"
 )
 
-var client *http.Client
-
-type Repo struct {
-	Name           string `json:"name"`
-	Stars          int    `json:"stargazers_count"`
-	Forks          int    `json:"forks_count"`
-	Issues         int    `json:"open_issues_count"`
-	URL            string `json:"html_url"`
-	Description    string `json:"description"`
-	Private        bool   `json:"private"`
-	DefaultBranch  string `json:"default_branch"`
-	CommitsUrl     string `json:"commits_url"`
-	Language       string `json:"language"`
-	LastCommitDate string
+type Repository struct {
+	ID          int     `json:"id"`
+	Name        string  `json:"name"`
+	FullName    string  `json:"full_name"`
+	URL         string  `json:"html_url"`
+	Description string  `json:"description"`
+	Stars       int     `json:"stargazers_count"`
+	Forks       int     `json:"forks_count"`
+	Watchers    int     `json:"watchers_count"`
+	Subscribers int     `json:"subscribers_count"`
+	Issues      int     `json:"open_issues_count"`
+	Language    string  `json:"language"`
+	UpdatedAt   string  `json:"updated_at"`
+	Score       float64 `json:"score"`
 }
 
-type HeadCommit struct {
-	Sha    string `json:"sha"`
-	Commit struct {
-		Committer struct {
-			Name  string    `json:"name"`
-			Email string    `json:"email"`
-			Date  time.Time `json:"date"`
-		} `json:"committer"`
-	} `json:"commit"`
+func callApi(url, accessToken string, ch chan<- Repository, wg *sync.WaitGroup) {
+	defer wg.Done()
+	result, err := utils.MakeAuthenticatedGETRequest[Repository](url, accessToken)
+	if err != nil {
+		fmt.Printf("Error calling %s: %v\n", url, err)
+		return
+	}
+	ch <- *result
 }
 
 func main() {
-	godotenv.Load()
-	fileName := "project-list.txt"
-	urls := loadProjects(fileName)
-	githubUrl := "https://github.com/"
-	github_access_token := os.Getenv("MY_GITHUB_ACCESS_TOKEN")
+	startTime := time.Now()
+	const txtFileName = "projects.txt"
+	const githubUrl = "https://github.com/"
+	const githubBaseApiUrl = "https://api.github.com"
+	const outputJsonFile = "frameworks.json"
+	const templateFile = "template.md"
+	const outputTemplateFile = "readme.md"
+	accessToken := os.Getenv("MY_GITHUB_ACCESS_TOKEN")
 
-	ch := make(chan Repo)
+	if accessToken == "" {
+		fmt.Fprintln(os.Stderr, "Error: MY_GITHUB_ACCESS_TOKEN is not set")
+		os.Exit(1)
+	}
+
+	urls := utils.LoadUrlsFromTxtFile(txtFileName)
+
+	ch := make(chan Repository)
 	var wg sync.WaitGroup
+	repositories := []Repository{}
 
-	projects := []Repo{}
-
-	fmt.Println("Fetching data from Github")
 	for _, url := range urls {
-
 		if strings.HasPrefix(url, githubUrl) {
-
 			repoFullName := strings.TrimPrefix(url, githubUrl)
-
-			repoUrl := fmt.Sprintf("https://api.github.com/repos/%s", repoFullName)
-
-			commitUrl := fmt.Sprintf("https://api.github.com/repos/%s/commits", repoFullName)
-
+			repoUrl := fmt.Sprintf("%s/repos/%s", githubBaseApiUrl, repoFullName)
+			fmt.Printf("Fetching data from repository => %s\n", repoUrl)
 			wg.Add(1)
-			go getRepoInfo(repoUrl, github_access_token, commitUrl, ch, &wg)
+			go callApi(repoUrl, accessToken, ch, &wg)
 		}
 	}
 
@@ -73,124 +74,125 @@ func main() {
 		close(ch)
 	}()
 
-	for res := range ch {
-		projects = append(projects, res)
+	metricRanges := map[string]struct {
+		min, max int
+	}{
+		"Stars":       {min: math.MaxInt, max: math.MinInt},
+		"Forks":       {min: math.MaxInt, max: math.MinInt},
+		"Watchers":    {min: math.MaxInt, max: math.MinInt},
+		"Subscribers": {min: math.MaxInt, max: math.MinInt},
+		"Issues":      {min: math.MaxInt, max: math.MinInt},
 	}
 
-	sort.Slice(projects, func(i, j int) bool {
-		return projects[i].Stars > projects[j].Stars
+	for repo := range ch {
+		metricRanges["Stars"] = struct {
+			min, max int
+		}{
+			min: int(math.Min(float64(metricRanges["Stars"].min), float64(repo.Stars))),
+			max: int(math.Max(float64(metricRanges["Stars"].max), float64(repo.Stars))),
+		}
+
+		metricRanges["Forks"] = struct {
+			min, max int
+		}{
+			min: int(math.Min(float64(metricRanges["Forks"].min), float64(repo.Forks))),
+			max: int(math.Max(float64(metricRanges["Forks"].max), float64(repo.Forks))),
+		}
+
+		metricRanges["Watchers"] = struct {
+			min, max int
+		}{
+			min: int(math.Min(float64(metricRanges["Watchers"].min), float64(repo.Watchers))),
+			max: int(math.Max(float64(metricRanges["Watchers"].max), float64(repo.Watchers))),
+		}
+
+		metricRanges["Subscribers"] = struct {
+			min, max int
+		}{
+			min: int(math.Min(float64(metricRanges["Subscribers"].min), float64(repo.Subscribers))),
+			max: int(math.Max(float64(metricRanges["Subscribers"].max), float64(repo.Subscribers))),
+		}
+
+		metricRanges["Issues"] = struct {
+			min, max int
+		}{
+			min: int(math.Min(float64(metricRanges["Issues"].min), float64(repo.Issues))),
+			max: int(math.Max(float64(metricRanges["Issues"].max), float64(repo.Issues))),
+		}
+
+		repositories = append(repositories, repo)
+	}
+
+	for i, repo := range repositories {
+		normalizedStars := float64(repo.Stars-metricRanges["Stars"].min) / float64(metricRanges["Stars"].max-metricRanges["Stars"].min)
+		normalizedForks := float64(repo.Forks-metricRanges["Forks"].min) / float64(metricRanges["Forks"].max-metricRanges["Forks"].min)
+		normalizedWatchers := float64(repo.Watchers-metricRanges["Watchers"].min) / float64(metricRanges["Watchers"].max-metricRanges["Watchers"].min)
+		normalizedSubscribers := float64(repo.Subscribers-metricRanges["Subscribers"].min) / float64(metricRanges["Subscribers"].max-metricRanges["Subscribers"].min)
+		normalizedIssues := float64(repo.Issues-metricRanges["Issues"].min) / float64(metricRanges["Issues"].max-metricRanges["Issues"].min)
+		repositories[i].Score = calculateWeightScore(normalizedStars, normalizedForks, normalizedWatchers, normalizedSubscribers, normalizedIssues)
+	}
+
+	sort.Slice(repositories, func(i, j int) bool {
+		return repositories[i].Score > repositories[j].Score
 	})
 
-	saveToReadme(projects, "readme.md")
-	saveToJson(projects, "frameworks.json")
+	var tableBody [][]string
+	for i, repo := range repositories {
+		parsedTime, err := time.Parse(time.RFC3339, repo.UpdatedAt)
+		if err != nil {
+			panic(err)
+		}
 
-	fmt.Println("Total Projects: =", len(urls))
-	fmt.Println("Done!!!")
+		tableBody = append(tableBody, []string{
+			fmt.Sprintf("%d", i+1),
+			repo.Name,
+			fmt.Sprintf("%d", repo.Stars),
+			fmt.Sprintf("%d", repo.Forks),
+			fmt.Sprintf("%d", repo.Issues),
+			repo.Language,
+			strings.TrimSpace(repo.Description),
+			parsedTime.Format("2006-01-02 15:04:05"),
+		})
+	}
+
+	previewTableHead := []string{"SL", "Name", "Stars", "Forks", "Issues", "Language"}
+	previewTable := markdownTable.CreateMarkdownTable(previewTableHead, tableBody)
+	fmt.Println("\n\n" + previewTable + "\n")
+	previewTableHead = append(previewTableHead, "Description", "UpdatedAt")
+	table := markdownTable.CreateMarkdownTable(previewTableHead, tableBody)
+
+	data := struct {
+		Table       string
+		LastUpdated string
+	}{
+		Table:       table,
+		LastUpdated: time.Now().Format("January 02, 2006"),
+	}
+	err := utils.SaveToMarkdown(templateFile, data, outputTemplateFile)
+	if err != nil {
+		fmt.Println("Error:", err)
+		return
+	}
+	fmt.Printf("Markdown generated and saved to => %s\n", outputTemplateFile)
+	utils.SaveToJsonFile(repositories, outputJsonFile)
+	fmt.Printf("Total repositories fetched => %d\n", len(repositories))
+	fmt.Printf("Total execution time: %.3f seconds\n", time.Since(startTime).Seconds())
 }
 
-func loadProjects(fileName string) []string {
-
-	byteCodes, err := ioutil.ReadFile(fileName)
-
-	if err != nil {
-		fmt.Println(err)
-		os.Exit(1)
+func calculateWeightScore(normalizedStars float64, normalizedForks float64, normalizedWatchers float64, normalizedSubscribers float64, normalizedIssues float64) float64 {
+	//weight score settings
+	weights := map[string]float64{
+		"Stars":       0.4,  // 40% weight
+		"Forks":       0.25, // 25% weight
+		"Watchers":    0.2,  // 20% weight
+		"Subscribers": 0.1,  // 10% weight
+		"Issues":      0.05, // 5%  weight
 	}
 
-	projects := strings.Split(string(byteCodes), "\n")
-
-	return projects
-}
-
-func getData(url string, token string, target interface{}) error {
-
-	req, err := http.NewRequest("GET", url, nil)
-	req.Header.Set("Authorization", fmt.Sprintf("token %s", token))
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	client = &http.Client{Timeout: 10 * time.Second}
-
-	resp, err := client.Do(req)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-	defer resp.Body.Close()
-	return json.NewDecoder(resp.Body).Decode(target)
-}
-
-func getCommitInfo(commitUrl string, token string) string {
-
-	var commit []HeadCommit
-
-	err := getData(commitUrl, token, &commit)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	return commit[0].Commit.Committer.Date.Format("2006-01-02 15:04:05")
-}
-
-func getRepoInfo(repoUrl string, github_access_token string, commitUrl string, ch chan<- Repo, wg *sync.WaitGroup) {
-	defer wg.Done()
-
-	var repo Repo
-
-	err := getData(repoUrl, github_access_token, &repo)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	repo.LastCommitDate = getCommitInfo(commitUrl, github_access_token)
-
-	ch <- repo
-}
-
-func saveToReadme(repos []Repo, fileName string) {
-
-	header := `# Top Frameworks
-## A list of top frameworks ranked by stars on github.  
-Please update the project-list.txt file.
-
-| SL| Name  | Stars| Forks| Issues | Language | Description | Last Commit |
-| --| ------| -----| ---- | ------ | -------- | ----------- | ----------- |
-`
-	footer := "\n### Last updated at : %s\n"
-	readme, err := os.OpenFile(fileName, os.O_RDWR|os.O_TRUNC|os.O_CREATE, 0666)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-	defer readme.Close()
-
-	readme.WriteString(header)
-
-	for i, repo := range repos {
-
-		description := strings.ReplaceAll(repo.Description, "\n", "")
-
-		readme.WriteString(fmt.Sprintf("| %d | [%s](%s) | %d | %d | %d | %s | %s | %s |\n", i+1, repo.Name, repo.URL, repo.Stars, repo.Forks, repo.Issues, repo.Language, description, repo.LastCommitDate))
-	}
-	readme.WriteString(fmt.Sprintf(footer, time.Now().Format("2006-01-02 15:04:05")))
-	fmt.Println("Successfully written the Markdown file")
-}
-
-
-func saveToJson(projects []Repo, fileName string) {
-
-	jsonBytes, err := json.MarshalIndent(projects, "", " ")
-
-	if err != nil {
-		fmt.Println(err)
-	}
-	err = ioutil.WriteFile(fileName, jsonBytes, 0644)
-
-	if err != nil {
-		fmt.Println(err)
-	}
+	score := normalizedStars*weights["Stars"] +
+		normalizedForks*weights["Forks"] +
+		normalizedWatchers*weights["Watchers"] +
+		normalizedSubscribers*weights["Subscribers"] +
+		normalizedIssues*weights["Issues"]
+	return math.Round(score*1000) / 1000.0
 }
