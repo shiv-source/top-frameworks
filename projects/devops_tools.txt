@@ -1,0 +1,27 @@
+# Please add the GitHub repository URLs for all the devops tools.
+# This will automatically track all the activities of the following repositories.
+
+
+https://github.com/ansible/ansible
+https://github.com/argoproj/argo-cd
+https://github.com/chef/chef
+https://github.com/cloudflare/cfssl
+https://github.com/datadog/datadog-agent
+https://github.com/elastic/beats
+https://github.com/gitlabhq/gitlabhq
+https://github.com/hashicorp/terraform
+https://github.com/helm/helm
+https://github.com/jenkinsci/jenkins
+https://github.com/k3s-io/k3s
+https://github.com/kong/kong
+https://github.com/kubernetes/kubernetes
+https://github.com/metallb/metallb
+https://github.com/mitchellh/vagrant
+https://github.com/moby/moby
+https://github.com/openfaas/faas
+https://github.com/prometheus/prometheus
+https://github.com/puppetlabs/puppet
+https://github.com/rancher/rancher
+https://github.com/spinnaker/spinnaker
+https://github.com/terraform-aws-modules/terraform-aws-vpc
+https://github.com/vmware-tanzu/velero

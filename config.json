@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "groupName": "Frontend Frameworks",
+        "filePath": "projects/frontend_frameworks.txt"
+    },
+    {
+        "id": 2,
+        "groupName": "Backend Frameworks",
+        "filePath": "projects/backend_frameworks.txt"
+    },
+    {
+        "id": 3,
+        "groupName": "Mobile Application Frameworks",
+        "filePath": "projects/mobile_frameworks.txt"
+    },
+    {
+        "id": 4,
+        "groupName": "Testing Tools",
+        "filePath": "projects/testing_tools.txt"
+    },
+    {
+        "id": 5,
+        "groupName": "DevOps Tools",
+        "filePath": "projects/devops_tools.txt"
+    },
+    {
+        "id": 6,
+        "groupName": "Databases",
+        "filePath": "projects/databases.txt"
+    },
+    {
+        "id": 7,
+        "groupName": "Programming Languages",
+        "filePath": "projects/programming_languages.txt"
+    }
+]

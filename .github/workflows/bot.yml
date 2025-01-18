@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run go executable file
-        run: ./main
+        run: make run
         env:
           MY_GITHUB_EMAIL: ${{ secrets.MY_GITHUB_EMAIL }}
           MY_GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}

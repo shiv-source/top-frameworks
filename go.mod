@@ -1,4 +1,4 @@
-module github.com/shiv-source/frameworkinsights
+module github.com/shiv-source/TechTracker
 
 go 1.23.4
 
