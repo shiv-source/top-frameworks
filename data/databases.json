@@ -9,10 +9,10 @@
     "forks_count": 24994,
     "watchers_count": 71373,
     "subscribers_count": 2683,
-    "open_issues_count": 4810,
+    "open_issues_count": 4814,
     "language": "Java",
-    "updated_at": "2025-01-22T21:39:09Z",
-    "score": 0.98551
+    "updated_at": "2025-01-22T22:42:36Z",
+    "score": 0.98556
   },
   {
     "id": 156018,
@@ -20,14 +20,14 @@
     "full_name": "redis/redis",
     "html_url": "https://github.com/redis/redis",
     "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
-    "stargazers_count": 67775,
-    "forks_count": 23878,
-    "watchers_count": 67775,
+    "stargazers_count": 67774,
+    "forks_count": 23879,
+    "watchers_count": 67774,
     "subscribers_count": 2533,
     "open_issues_count": 2542,
     "language": "C",
-    "updated_at": "2025-01-22T21:22:21Z",
-    "score": 0.91978
+    "updated_at": "2025-01-22T22:40:04Z",
+    "score": 0.92178
   },
   {
     "id": 11225014,
@@ -42,7 +42,7 @@
     "open_issues_count": 416,
     "language": "Go",
     "updated_at": "2025-01-22T21:59:05Z",
-    "score": 0.5411
+    "score": 0.55585
   },
   {
     "id": 16563587,
@@ -54,10 +54,10 @@
     "forks_count": 3849,
     "watchers_count": 30412,
     "subscribers_count": 689,
-    "open_issues_count": 6772,
+    "open_issues_count": 6769,
     "language": "Go",
-    "updated_at": "2025-01-22T21:46:25Z",
-    "score": 0.34542
+    "updated_at": "2025-01-22T22:24:19Z",
+    "score": 0.36984
   },
   {
     "id": 108110,
@@ -71,8 +71,8 @@
     "subscribers_count": 1256,
     "open_issues_count": 80,
     "language": "C++",
-    "updated_at": "2025-01-22T21:43:53Z",
-    "score": 0.30294
+    "updated_at": "2025-01-22T22:42:23Z",
+    "score": 0.32767
   },
   {
     "id": 13124802,
@@ -83,11 +83,11 @@
     "stargazers_count": 29362,
     "forks_count": 3575,
     "watchers_count": 29362,
-    "subscribers_count": 736,
-    "open_issues_count": 2064,
+    "subscribers_count": 735,
+    "open_issues_count": 2063,
     "language": "Rust",
     "updated_at": "2025-01-22T19:38:54Z",
-    "score": 0.30043
+    "score": 0.32522
   },
   {
     "id": 927442,
@@ -102,7 +102,7 @@
     "open_issues_count": 1,
     "language": "C",
     "updated_at": "2025-01-22T20:19:11Z",
-    "score": 0.17685
+    "score": 0.20729
   },
   {
     "id": 11008207,
@@ -117,7 +117,7 @@
     "open_issues_count": 816,
     "language": "Go",
     "updated_at": "2025-01-22T19:43:43Z",
-    "score": 0.17571
+    "score": 0.20563
   },
   {
     "id": 41349039,
@@ -132,7 +132,7 @@
     "open_issues_count": 30,
     "language": "Go",
     "updated_at": "2025-01-22T14:36:41Z",
-    "score": 0.17237
+    "score": 0.20194
   },
   {
     "id": 84240850,
@@ -140,14 +140,14 @@
     "full_name": "timescale/timescaledb",
     "html_url": "https://github.com/timescale/timescaledb",
     "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
-    "stargazers_count": 18224,
+    "stargazers_count": 18225,
     "forks_count": 898,
-    "watchers_count": 18224,
+    "watchers_count": 18225,
     "subscribers_count": 306,
     "open_issues_count": 543,
     "language": "C",
-    "updated_at": "2025-01-22T20:11:40Z",
-    "score": 0.14681
+    "updated_at": "2025-01-22T22:11:54Z",
+    "score": 0.17761
   },
   {
     "id": 28449431,
@@ -155,14 +155,14 @@
     "full_name": "scylladb/scylladb",
     "html_url": "https://github.com/scylladb/scylladb",
     "description": "NoSQL data store using the seastar framework, compatible with Apache Cassandra",
-    "stargazers_count": 13993,
+    "stargazers_count": 13994,
     "forks_count": 1327,
-    "watchers_count": 13993,
+    "watchers_count": 13994,
     "subscribers_count": 339,
     "open_issues_count": 3377,
     "language": "C++",
-    "updated_at": "2025-01-22T17:02:32Z",
-    "score": 0.13601
+    "updated_at": "2025-01-22T22:18:54Z",
+    "score": 0.16849
   },
   {
     "id": 24494032,
@@ -177,7 +177,7 @@
     "open_issues_count": 3,
     "language": "C++",
     "updated_at": "2025-01-22T16:16:57Z",
-    "score": 0.12074
+    "score": 0.15364
   },
   {
     "id": 2649214,
@@ -192,7 +192,7 @@
     "open_issues_count": 787,
     "language": "C++",
     "updated_at": "2025-01-22T14:38:04Z",
-    "score": 0.1085
+    "score": 0.14121
   },
   {
     "id": 206424,
@@ -207,7 +207,7 @@
     "open_issues_count": 630,
     "language": "Java",
     "updated_at": "2025-01-22T18:08:18Z",
-    "score": 0.09919
+    "score": 0.13324
   },
   {
     "id": 176278485,
@@ -221,22 +221,22 @@
     "subscribers_count": 125,
     "open_issues_count": 12,
     "language": "C",
-    "updated_at": "2025-01-22T19:25:36Z",
-    "score": 0.04037
+    "updated_at": "2025-01-22T22:17:19Z",
+    "score": 0.07616
   },
   {
-    "id": 911980,
-    "name": "tarantool",
-    "full_name": "tarantool/tarantool",
-    "html_url": "https://github.com/tarantool/tarantool",
-    "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
-    "stargazers_count": 3450,
-    "forks_count": 384,
-    "watchers_count": 3450,
-    "subscribers_count": 149,
-    "open_issues_count": 1399,
-    "language": "Lua",
-    "updated_at": "2025-01-22T10:18:08Z",
-    "score": 0.01126
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   }
 ]

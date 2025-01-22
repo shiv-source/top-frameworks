@@ -5,14 +5,14 @@
     "full_name": "kubernetes/kubernetes",
     "html_url": "https://github.com/kubernetes/kubernetes",
     "description": "Production-Grade Container Scheduling and Management",
-    "stargazers_count": 112522,
+    "stargazers_count": 112523,
     "forks_count": 40077,
-    "watchers_count": 112522,
+    "watchers_count": 112523,
     "subscribers_count": 3215,
-    "open_issues_count": 2530,
+    "open_issues_count": 2532,
     "language": "Go",
-    "updated_at": "2025-01-22T21:58:14Z",
-    "score": 0.985
+    "updated_at": "2025-01-22T22:37:07Z",
+    "score": 0.98504
   },
   {
     "id": 7691631,
@@ -27,7 +27,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-22T18:52:43Z",
-    "score": 0.61322
+    "score": 0.61323
   },
   {
     "id": 3638964,
@@ -65,14 +65,14 @@
     "full_name": "hashicorp/terraform",
     "html_url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "stargazers_count": 43863,
+    "stargazers_count": 43864,
     "forks_count": 9638,
-    "watchers_count": 43863,
+    "watchers_count": 43864,
     "subscribers_count": 1159,
     "open_issues_count": 1983,
     "language": "Go",
-    "updated_at": "2025-01-22T21:19:55Z",
-    "score": 0.34139
+    "updated_at": "2025-01-22T22:16:19Z",
+    "score": 0.34141
   },
   {
     "id": 26783295,
@@ -87,7 +87,7 @@
     "open_issues_count": 144,
     "language": "Lua",
     "updated_at": "2025-01-22T20:35:19Z",
-    "score": 0.25846
+    "score": 0.25845
   },
   {
     "id": 43723161,
@@ -95,13 +95,13 @@
     "full_name": "helm/helm",
     "html_url": "https://github.com/helm/helm",
     "description": "The Kubernetes Package Manager",
-    "stargazers_count": 27332,
+    "stargazers_count": 27333,
     "forks_count": 7164,
-    "watchers_count": 27332,
+    "watchers_count": 27333,
     "subscribers_count": 521,
     "open_issues_count": 776,
     "language": "Go",
-    "updated_at": "2025-01-22T10:59:08Z",
+    "updated_at": "2025-01-22T22:40:07Z",
     "score": 0.19786
   },
   {
@@ -111,7 +111,7 @@
     "html_url": "https://github.com/jenkinsci/jenkins",
     "description": "Jenkins automation server",
     "stargazers_count": 23504,
-    "forks_count": 8900,
+    "forks_count": 8901,
     "watchers_count": 23504,
     "subscribers_count": 867,
     "open_issues_count": 86,
@@ -132,7 +132,7 @@
     "open_issues_count": 3033,
     "language": "Go",
     "updated_at": "2025-01-22T21:39:59Z",
-    "score": 0.18661
+    "score": 0.18662
   },
   {
     "id": 481872,
@@ -162,7 +162,7 @@
     "open_issues_count": 36,
     "language": "Ruby",
     "updated_at": "2025-01-22T21:49:06Z",
-    "score": 0.17364
+    "score": 0.17363
   },
   {
     "id": 120896210,
@@ -174,7 +174,7 @@
     "forks_count": 5654,
     "watchers_count": 18492,
     "subscribers_count": 183,
-    "open_issues_count": 3604,
+    "open_issues_count": 3603,
     "language": "Go",
     "updated_at": "2025-01-22T21:59:19Z",
     "score": 0.16852
@@ -219,10 +219,10 @@
     "forks_count": 4929,
     "watchers_count": 12245,
     "subscribers_count": 677,
-    "open_issues_count": 968,
+    "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-22T16:23:16Z",
-    "score": 0.10862
+    "score": 0.10864
   },
   {
     "id": 108278,
@@ -267,7 +267,7 @@
     "open_issues_count": 617,
     "language": "Go",
     "updated_at": "2025-01-22T20:56:50Z",
-    "score": 0.04602
+    "score": 0.04603
   },
   {
     "id": 910744,
@@ -311,7 +311,7 @@
     "subscribers_count": 565,
     "open_issues_count": 1205,
     "language": "Go",
-    "updated_at": "2025-01-22T21:17:00Z",
+    "updated_at": "2025-01-22T22:31:44Z",
     "score": 0.03387
   },
   {
