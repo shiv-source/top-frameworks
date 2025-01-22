@@ -9,10 +9,10 @@
     "forks_count": 24994,
     "watchers_count": 71373,
     "subscribers_count": 2683,
-    "open_issues_count": 4814,
+    "open_issues_count": 4817,
     "language": "Java",
-    "updated_at": "2025-01-22T22:42:36Z",
-    "score": 0.98556
+    "updated_at": "2025-01-22T23:05:06Z",
+    "score": 0.98557
   },
   {
     "id": 156018,
@@ -27,7 +27,7 @@
     "open_issues_count": 2542,
     "language": "C",
     "updated_at": "2025-01-22T22:40:04Z",
-    "score": 0.92178
+    "score": 0.92177
   },
   {
     "id": 11225014,
@@ -39,10 +39,10 @@
     "forks_count": 9836,
     "watchers_count": 48236,
     "subscribers_count": 1312,
-    "open_issues_count": 416,
+    "open_issues_count": 417,
     "language": "Go",
     "updated_at": "2025-01-22T21:59:05Z",
-    "score": 0.55585
+    "score": 0.55586
   },
   {
     "id": 16563587,
@@ -54,9 +54,9 @@
     "forks_count": 3849,
     "watchers_count": 30412,
     "subscribers_count": 689,
-    "open_issues_count": 6769,
+    "open_issues_count": 6771,
     "language": "Go",
-    "updated_at": "2025-01-22T22:24:19Z",
+    "updated_at": "2025-01-22T23:14:21Z",
     "score": 0.36984
   },
   {
@@ -71,7 +71,7 @@
     "subscribers_count": 1256,
     "open_issues_count": 80,
     "language": "C++",
-    "updated_at": "2025-01-22T22:42:23Z",
+    "updated_at": "2025-01-22T23:10:12Z",
     "score": 0.32767
   },
   {
@@ -114,7 +114,7 @@
     "forks_count": 2123,
     "watchers_count": 18983,
     "subscribers_count": 504,
-    "open_issues_count": 816,
+    "open_issues_count": 817,
     "language": "Go",
     "updated_at": "2025-01-22T19:43:43Z",
     "score": 0.20563
@@ -133,21 +133,6 @@
     "language": "Go",
     "updated_at": "2025-01-22T14:36:41Z",
     "score": 0.20194
-  },
-  {
-    "id": 84240850,
-    "name": "timescaledb",
-    "full_name": "timescale/timescaledb",
-    "html_url": "https://github.com/timescale/timescaledb",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
-    "stargazers_count": 18225,
-    "forks_count": 898,
-    "watchers_count": 18225,
-    "subscribers_count": 306,
-    "open_issues_count": 543,
-    "language": "C",
-    "updated_at": "2025-01-22T22:11:54Z",
-    "score": 0.17761
   },
   {
     "id": 28449431,
@@ -204,7 +189,7 @@
     "forks_count": 3648,
     "watchers_count": 8983,
     "subscribers_count": 445,
-    "open_issues_count": 630,
+    "open_issues_count": 629,
     "language": "Java",
     "updated_at": "2025-01-22T18:08:18Z",
     "score": 0.13324
@@ -223,6 +208,21 @@
     "language": "C",
     "updated_at": "2025-01-22T22:17:19Z",
     "score": 0.07616
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   },
   {
     "id": 0,

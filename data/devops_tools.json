@@ -12,7 +12,7 @@
     "open_issues_count": 2532,
     "language": "Go",
     "updated_at": "2025-01-22T22:37:07Z",
-    "score": 0.98504
+    "score": 0.98514
   },
   {
     "id": 7691631,
@@ -27,7 +27,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-22T18:52:43Z",
-    "score": 0.61323
+    "score": 0.62293
   },
   {
     "id": 3638964,
@@ -42,7 +42,7 @@
     "open_issues_count": 865,
     "language": "Python",
     "updated_at": "2025-01-22T21:06:31Z",
-    "score": 0.54971
+    "score": 0.56042
   },
   {
     "id": 6838921,
@@ -57,7 +57,7 @@
     "open_issues_count": 717,
     "language": "Go",
     "updated_at": "2025-01-22T21:25:45Z",
-    "score": 0.39205
+    "score": 0.40654
   },
   {
     "id": 17728164,
@@ -68,11 +68,11 @@
     "stargazers_count": 43864,
     "forks_count": 9638,
     "watchers_count": 43864,
-    "subscribers_count": 1159,
+    "subscribers_count": 1158,
     "open_issues_count": 1983,
     "language": "Go",
     "updated_at": "2025-01-22T22:16:19Z",
-    "score": 0.34141
+    "score": 0.35755
   },
   {
     "id": 26783295,
@@ -87,7 +87,7 @@
     "open_issues_count": 144,
     "language": "Lua",
     "updated_at": "2025-01-22T20:35:19Z",
-    "score": 0.25845
+    "score": 0.27621
   },
   {
     "id": 43723161,
@@ -102,7 +102,7 @@
     "open_issues_count": 776,
     "language": "Go",
     "updated_at": "2025-01-22T22:40:07Z",
-    "score": 0.19786
+    "score": 0.21741
   },
   {
     "id": 1103607,
@@ -110,14 +110,14 @@
     "full_name": "jenkinsci/jenkins",
     "html_url": "https://github.com/jenkinsci/jenkins",
     "description": "Jenkins automation server",
-    "stargazers_count": 23504,
+    "stargazers_count": 23505,
     "forks_count": 8901,
-    "watchers_count": 23504,
+    "watchers_count": 23505,
     "subscribers_count": 867,
     "open_issues_count": 86,
     "language": "Java",
-    "updated_at": "2025-01-22T19:11:31Z",
-    "score": 0.18938
+    "updated_at": "2025-01-22T23:02:32Z",
+    "score": 0.20902
   },
   {
     "id": 26337322,
@@ -132,7 +132,7 @@
     "open_issues_count": 3033,
     "language": "Go",
     "updated_at": "2025-01-22T21:39:59Z",
-    "score": 0.18662
+    "score": 0.207
   },
   {
     "id": 481872,
@@ -147,7 +147,7 @@
     "open_issues_count": 768,
     "language": "Ruby",
     "updated_at": "2025-01-22T13:54:20Z",
-    "score": 0.18171
+    "score": 0.20163
   },
   {
     "id": 2500088,
@@ -162,7 +162,7 @@
     "open_issues_count": 36,
     "language": "Ruby",
     "updated_at": "2025-01-22T21:49:06Z",
-    "score": 0.17363
+    "score": 0.19361
   },
   {
     "id": 120896210,
@@ -177,7 +177,7 @@
     "open_issues_count": 3603,
     "language": "Go",
     "updated_at": "2025-01-22T21:59:19Z",
-    "score": 0.16852
+    "score": 0.18957
   },
   {
     "id": 135516270,
@@ -189,25 +189,10 @@
     "forks_count": 2373,
     "watchers_count": 28614,
     "subscribers_count": 285,
-    "open_issues_count": 146,
+    "open_issues_count": 147,
     "language": "Go",
     "updated_at": "2025-01-22T19:14:32Z",
-    "score": 0.15796
-  },
-  {
-    "id": 77144337,
-    "name": "faas",
-    "full_name": "openfaas/faas",
-    "html_url": "https://github.com/openfaas/faas",
-    "description": "OpenFaaS - Serverless Functions Made Simple",
-    "stargazers_count": 25347,
-    "forks_count": 1944,
-    "watchers_count": 25347,
-    "subscribers_count": 476,
-    "open_issues_count": 34,
-    "language": "Go",
-    "updated_at": "2025-01-22T21:20:34Z",
-    "score": 0.14185
+    "score": 0.17828
   },
   {
     "id": 16554739,
@@ -222,7 +207,7 @@
     "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-22T16:23:16Z",
-    "score": 0.10864
+    "score": 0.13055
   },
   {
     "id": 108278,
@@ -237,22 +222,7 @@
     "open_issues_count": 439,
     "language": "Ruby",
     "updated_at": "2025-01-22T17:43:16Z",
-    "score": 0.05076
-  },
-  {
-    "id": 21436816,
-    "name": "spinnaker",
-    "full_name": "spinnaker/spinnaker",
-    "html_url": "https://github.com/spinnaker/spinnaker",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
-    "stargazers_count": 9391,
-    "forks_count": 1208,
-    "watchers_count": 9391,
-    "subscribers_count": 342,
-    "open_issues_count": 125,
-    "language": "Shell",
-    "updated_at": "2025-01-22T19:02:16Z",
-    "score": 0.04677
+    "score": 0.07398
   },
   {
     "id": 99143276,
@@ -267,7 +237,7 @@
     "open_issues_count": 617,
     "language": "Go",
     "updated_at": "2025-01-22T20:56:50Z",
-    "score": 0.04603
+    "score": 0.06939
   },
   {
     "id": 910744,
@@ -282,7 +252,7 @@
     "open_issues_count": 73,
     "language": "Ruby",
     "updated_at": "2025-01-22T16:00:10Z",
-    "score": 0.04586
+    "score": 0.06911
   },
   {
     "id": 21591001,
@@ -297,7 +267,7 @@
     "open_issues_count": 320,
     "language": "Go",
     "updated_at": "2025-01-22T19:46:31Z",
-    "score": 0.04207
+    "score": 0.06545
   },
   {
     "id": 49970739,
@@ -309,10 +279,10 @@
     "forks_count": 1226,
     "watchers_count": 2961,
     "subscribers_count": 565,
-    "open_issues_count": 1205,
+    "open_issues_count": 1202,
     "language": "Go",
-    "updated_at": "2025-01-22T22:31:44Z",
-    "score": 0.03387
+    "updated_at": "2025-01-22T23:14:21Z",
+    "score": 0.05769
   },
   {
     "id": 110027931,
@@ -327,7 +297,7 @@
     "open_issues_count": 106,
     "language": "Go",
     "updated_at": "2025-01-22T14:12:54Z",
-    "score": 0.02538
+    "score": 0.04913
   },
   {
     "id": 101660954,
@@ -342,6 +312,36 @@
     "open_issues_count": 24,
     "language": "HCL",
     "updated_at": "2025-01-20T01:22:45Z",
-    "score": 0.0229
+    "score": 0.04677
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   }
 ]

@@ -12,7 +12,7 @@
     "open_issues_count": 268,
     "language": "TypeScript",
     "updated_at": "2025-01-22T21:24:06Z",
-    "score": 0.95235
+    "score": 0.95181
   },
   {
     "id": 221981891,
@@ -27,7 +27,7 @@
     "open_issues_count": 709,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:43:39Z",
-    "score": 0.62752
+    "score": 0.61768
   },
   {
     "id": 7613257,
@@ -42,7 +42,7 @@
     "open_issues_count": 203,
     "language": "Java",
     "updated_at": "2025-01-22T21:20:47Z",
-    "score": 0.54454
+    "score": 0.53408
   },
   {
     "id": 15062869,
@@ -57,7 +57,7 @@
     "open_issues_count": 335,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:34:54Z",
-    "score": 0.53103
+    "score": 0.51914
   },
   {
     "id": 31629751,
@@ -72,7 +72,7 @@
     "open_issues_count": 1406,
     "language": "JavaScript",
     "updated_at": "2025-01-22T21:22:02Z",
-    "score": 0.50472
+    "score": 0.49154
   },
   {
     "id": 1451352,
@@ -87,7 +87,7 @@
     "open_issues_count": 193,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:44:45Z",
-    "score": 0.27247
+    "score": 0.25407
   },
   {
     "id": 45942274,
@@ -102,7 +102,7 @@
     "open_issues_count": 281,
     "language": "JavaScript",
     "updated_at": "2025-01-22T03:41:54Z",
-    "score": 0.21809
+    "score": 0.19808
   },
   {
     "id": 37489525,
@@ -114,10 +114,25 @@
     "forks_count": 2731,
     "watchers_count": 12343,
     "subscribers_count": 194,
-    "open_issues_count": 919,
+    "open_issues_count": 920,
     "language": "Python",
     "updated_at": "2025-01-22T09:44:47Z",
-    "score": 0.20531
+    "score": 0.1845
+  },
+  {
+    "id": 84009,
+    "name": "jasmine",
+    "full_name": "jasmine/jasmine",
+    "html_url": "https://github.com/jasmine/jasmine",
+    "description": "Simple JavaScript testing framework for browsers and node.js",
+    "stargazers_count": 15773,
+    "forks_count": 2239,
+    "watchers_count": 15773,
+    "subscribers_count": 437,
+    "open_issues_count": 8,
+    "language": "JavaScript",
+    "updated_at": "2025-01-22T12:21:47Z",
+    "score": 0.18143
   },
   {
     "id": 2560988,
@@ -132,7 +147,7 @@
     "open_issues_count": 382,
     "language": "JavaScript",
     "updated_at": "2025-01-22T08:55:21Z",
-    "score": 0.16513
+    "score": 0.14383
   },
   {
     "id": 434708679,
@@ -147,7 +162,7 @@
     "open_issues_count": 349,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:03:19Z",
-    "score": 0.14198
+    "score": 0.11976
   },
   {
     "id": 20506004,
@@ -162,7 +177,7 @@
     "open_issues_count": 39,
     "language": "Swift",
     "updated_at": "2025-01-22T01:20:32Z",
-    "score": 0.1096
+    "score": 0.08705
   },
   {
     "id": 2931111,
@@ -177,7 +192,7 @@
     "open_issues_count": 94,
     "language": "JavaScript",
     "updated_at": "2025-01-21T19:33:24Z",
-    "score": 0.0878
+    "score": 0.06454
   },
   {
     "id": 37796696,
@@ -192,7 +207,7 @@
     "open_issues_count": 38,
     "language": "",
     "updated_at": "2025-01-22T03:10:52Z",
-    "score": 0.05965
+    "score": 0.03584
   },
   {
     "id": 2034023,
@@ -207,7 +222,7 @@
     "open_issues_count": 134,
     "language": "JavaScript",
     "updated_at": "2025-01-16T05:46:48Z",
-    "score": 0.04074
+    "score": 0.0162
   },
   {
     "id": 14731610,
@@ -222,21 +237,6 @@
     "open_issues_count": 26,
     "language": "Ruby",
     "updated_at": "2025-01-22T15:54:50Z",
-    "score": 0.02684
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
+    "score": 0.00203
   }
 ]

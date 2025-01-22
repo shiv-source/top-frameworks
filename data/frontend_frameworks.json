@@ -1,18 +1,18 @@
 [
   {
-    "id": 2126244,
-    "name": "bootstrap",
-    "full_name": "twbs/bootstrap",
-    "html_url": "https://github.com/twbs/bootstrap",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-    "stargazers_count": 171253,
-    "forks_count": 78973,
-    "watchers_count": 171253,
-    "subscribers_count": 6719,
-    "open_issues_count": 660,
+    "id": 10270250,
+    "name": "react",
+    "full_name": "facebook/react",
+    "html_url": "https://github.com/facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "stargazers_count": 231569,
+    "forks_count": 47426,
+    "watchers_count": 231569,
+    "subscribers_count": 6632,
+    "open_issues_count": 947,
     "language": "JavaScript",
-    "updated_at": "2025-01-22T22:45:56Z",
-    "score": 0.86259
+    "updated_at": "2025-01-22T22:45:05Z",
+    "score": 0.97756
   },
   {
     "id": 11730342,
@@ -27,7 +27,7 @@
     "open_issues_count": 600,
     "language": "TypeScript",
     "updated_at": "2025-01-22T15:02:11Z",
-    "score": 0.81133
+    "score": 0.82306
   },
   {
     "id": 24195339,
@@ -42,7 +42,7 @@
     "open_issues_count": 1718,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:52:02Z",
-    "score": 0.45479
+    "score": 0.48159
   },
   {
     "id": 167174,
@@ -57,7 +57,7 @@
     "open_issues_count": 87,
     "language": "JavaScript",
     "updated_at": "2025-01-22T22:32:14Z",
-    "score": 0.28565
+    "score": 0.31241
   },
   {
     "id": 74293321,
@@ -65,14 +65,14 @@
     "full_name": "sveltejs/svelte",
     "html_url": "https://github.com/sveltejs/svelte",
     "description": "web development for the rest of us",
-    "stargazers_count": 81004,
+    "stargazers_count": 81003,
     "forks_count": 4337,
-    "watchers_count": 81004,
+    "watchers_count": 81003,
     "subscribers_count": 847,
     "open_issues_count": 784,
     "language": "JavaScript",
-    "updated_at": "2025-01-22T22:24:36Z",
-    "score": 0.28252
+    "updated_at": "2025-01-22T22:56:56Z",
+    "score": 0.26833
   },
   {
     "id": 106017343,
@@ -87,7 +87,7 @@
     "open_issues_count": 116,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:46:38Z",
-    "score": 0.27024
+    "score": 0.25485
   },
   {
     "id": 3678731,
@@ -102,7 +102,7 @@
     "open_issues_count": 257,
     "language": "JavaScript",
     "updated_at": "2025-01-22T21:24:30Z",
-    "score": 0.24458
+    "score": 0.24483
   },
   {
     "id": 71995937,
@@ -117,7 +117,7 @@
     "open_issues_count": 905,
     "language": "TypeScript",
     "updated_at": "2025-01-22T20:28:59Z",
-    "score": 0.21505
+    "score": 0.20976
   },
   {
     "id": 1801829,
@@ -132,7 +132,7 @@
     "open_issues_count": 379,
     "language": "JavaScript",
     "updated_at": "2025-01-22T08:18:55Z",
-    "score": 0.1017
+    "score": 0.1042
   },
   {
     "id": 0,
