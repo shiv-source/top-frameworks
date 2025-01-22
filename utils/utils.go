@@ -112,3 +112,26 @@ func SaveToMarkdown(templatePath string, data interface{}, outputPath string) er
 
 	return nil
 }
+
+func LoadJSONFromFile[T any](fileName string) *T {
+	file, err := os.Open(fileName)
+	if err != nil {
+		fmt.Printf("failed to open file: %v\n", err)
+		os.Exit(1)
+	}
+	defer file.Close()
+
+	data, err := io.ReadAll(file)
+	if err != nil {
+		fmt.Printf("failed to read file: %v\n", err)
+		os.Exit(1)
+	}
+
+	var result T
+	if err := json.Unmarshal(data, &result); err != nil {
+		fmt.Printf("failed to unmarshal JSON: %v\n", err)
+		os.Exit(1)
+	}
+
+	return &result
+}

@@ -1,0 +1,19 @@
+# Please add the GitHub repository URLs for all the testing tools.
+# This will automatically track all the activities of the following repositories.
+
+https://github.com/airbnb/enzyme
+https://github.com/chaijs/chai
+https://github.com/cucumber/cucumber
+https://github.com/cypress-io/cypress
+https://github.com/jasmine/jasmine
+https://github.com/jestjs/jest
+https://github.com/karma-runner/karma
+https://github.com/Microsoft/playwright
+https://github.com/mochajs/mocha
+https://github.com/pact-foundation/pact-ruby
+https://github.com/puppeteer/puppeteer
+https://github.com/pytest-dev/pytest
+https://github.com/Quick/Quick
+https://github.com/seleniumhq/selenium
+https://github.com/testem/testem
+https://github.com/vitest-dev/vitest

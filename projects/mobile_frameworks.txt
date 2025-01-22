@@ -1,0 +1,10 @@
+# Please add the GitHub repository URLs for all the mobile frameworks.
+# This will automatically track all the activities of the following repositories.
+
+https://github.com/apache/cordova
+https://github.com/dotnet/maui
+https://github.com/facebook/react-native
+https://github.com/flutter/flutter
+https://github.com/ionic-team/capacitor
+https://github.com/ionic-team/ionic-framework
+https://github.com/NativeScript/NativeScript

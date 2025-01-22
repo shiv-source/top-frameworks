@@ -1,0 +1,16 @@
+# Please add the GitHub repository URLs for all the programming languages.
+# This will automatically track all the activities of the following repositories.
+
+https://github.com/dart-lang/sdk
+https://github.com/elm/compiler
+https://github.com/go-lang/go
+https://github.com/JetBrains/kotlin
+https://github.com/microsoft/TypeScript
+https://github.com/nodejs/node
+https://github.com/openjdk/jdk
+https://github.com/perl/perl5
+https://github.com/php/php-src
+https://github.com/python/cpython
+https://github.com/ruby/ruby
+https://github.com/rust-lang/rust
+https://github.com/swiftlang/swift
