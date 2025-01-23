@@ -12,7 +12,7 @@
     "open_issues_count": 268,
     "language": "TypeScript",
     "updated_at": "2025-01-22T21:24:06Z",
-    "score": 0.95235
+    "score": 0.95233
   },
   {
     "id": 221981891,
@@ -24,10 +24,10 @@
     "forks_count": 3797,
     "watchers_count": 68700,
     "subscribers_count": 485,
-    "open_issues_count": 709,
+    "open_issues_count": 710,
     "language": "TypeScript",
     "updated_at": "2025-01-22T23:50:34Z",
-    "score": 0.62752
+    "score": 0.62751
   },
   {
     "id": 7613257,
@@ -42,7 +42,7 @@
     "open_issues_count": 203,
     "language": "Java",
     "updated_at": "2025-01-23T00:17:41Z",
-    "score": 0.54454
+    "score": 0.54452
   },
   {
     "id": 15062869,
@@ -50,14 +50,14 @@
     "full_name": "jestjs/jest",
     "html_url": "https://github.com/jestjs/jest",
     "description": "Delightful JavaScript Testing.",
-    "stargazers_count": 44430,
+    "stargazers_count": 44429,
     "forks_count": 6485,
-    "watchers_count": 44430,
+    "watchers_count": 44429,
     "subscribers_count": 561,
     "open_issues_count": 335,
     "language": "TypeScript",
-    "updated_at": "2025-01-22T22:34:54Z",
-    "score": 0.53103
+    "updated_at": "2025-01-23T00:42:49Z",
+    "score": 0.531
   },
   {
     "id": 31629751,
@@ -69,7 +69,7 @@
     "forks_count": 3210,
     "watchers_count": 47672,
     "subscribers_count": 606,
-    "open_issues_count": 1406,
+    "open_issues_count": 1409,
     "language": "JavaScript",
     "updated_at": "2025-01-22T21:22:02Z",
     "score": 0.50472
@@ -87,22 +87,7 @@
     "open_issues_count": 193,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:44:45Z",
-    "score": 0.27247
-  },
-  {
-    "id": 45942274,
-    "name": "enzyme",
-    "full_name": "enzymejs/enzyme",
-    "html_url": "https://github.com/enzymejs/enzyme",
-    "description": "JavaScript Testing utilities for React",
-    "stargazers_count": 19946,
-    "forks_count": 2005,
-    "watchers_count": 19946,
-    "subscribers_count": 250,
-    "open_issues_count": 281,
-    "language": "JavaScript",
-    "updated_at": "2025-01-22T03:41:54Z",
-    "score": 0.21809
+    "score": 0.27246
   },
   {
     "id": 37489525,
@@ -117,7 +102,7 @@
     "open_issues_count": 920,
     "language": "Python",
     "updated_at": "2025-01-22T09:44:47Z",
-    "score": 0.20535
+    "score": 0.20528
   },
   {
     "id": 84009,
@@ -135,6 +120,21 @@
     "score": 0.2014
   },
   {
+    "id": 2560988,
+    "name": "karma",
+    "full_name": "karma-runner/karma",
+    "html_url": "https://github.com/karma-runner/karma",
+    "description": "Spectacular Test Runner for JavaScript",
+    "stargazers_count": 11958,
+    "forks_count": 1710,
+    "watchers_count": 11958,
+    "subscribers_count": 315,
+    "open_issues_count": 382,
+    "language": "JavaScript",
+    "updated_at": "2025-01-22T08:55:21Z",
+    "score": 0.1651
+  },
+  {
     "id": 434708679,
     "name": "vitest",
     "full_name": "vitest-dev/vitest",
@@ -147,7 +147,7 @@
     "open_issues_count": 349,
     "language": "TypeScript",
     "updated_at": "2025-01-23T00:16:23Z",
-    "score": 0.14198
+    "score": 0.14196
   },
   {
     "id": 20506004,
@@ -192,7 +192,7 @@
     "open_issues_count": 134,
     "language": "JavaScript",
     "updated_at": "2025-01-16T05:46:48Z",
-    "score": 0.04074
+    "score": 0.04073
   },
   {
     "id": 14731610,
@@ -207,7 +207,7 @@
     "open_issues_count": 26,
     "language": "Ruby",
     "updated_at": "2025-01-23T00:06:37Z",
-    "score": 0.02685
+    "score": 0.02684
   },
   {
     "id": 0,

@@ -5,14 +5,14 @@
     "full_name": "facebook/react",
     "html_url": "https://github.com/facebook/react",
     "description": "The library for web and native user interfaces.",
-    "stargazers_count": 231570,
-    "forks_count": 47426,
-    "watchers_count": 231570,
-    "subscribers_count": 6632,
+    "stargazers_count": 231575,
+    "forks_count": 47428,
+    "watchers_count": 231575,
+    "subscribers_count": 6633,
     "open_issues_count": 947,
     "language": "JavaScript",
-    "updated_at": "2025-01-22T23:15:04Z",
-    "score": 0.86945
+    "updated_at": "2025-01-23T00:41:17Z",
+    "score": 0.87642
   },
   {
     "id": 2126244,
@@ -27,22 +27,7 @@
     "open_issues_count": 660,
     "language": "JavaScript",
     "updated_at": "2025-01-22T23:43:27Z",
-    "score": 0.79446
-  },
-  {
-    "id": 11730342,
-    "name": "vue",
-    "full_name": "vuejs/vue",
-    "html_url": "https://github.com/vuejs/vue",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-    "stargazers_count": 208262,
-    "forks_count": 33706,
-    "watchers_count": 208262,
-    "subscribers_count": 5857,
-    "open_issues_count": 600,
-    "language": "TypeScript",
-    "updated_at": "2025-01-22T15:02:11Z",
-    "score": 0.73333
+    "score": 0.81291
   },
   {
     "id": 24195339,
@@ -57,7 +42,7 @@
     "open_issues_count": 1718,
     "language": "TypeScript",
     "updated_at": "2025-01-22T22:52:02Z",
-    "score": 0.37399
+    "score": 0.42675
   },
   {
     "id": 167174,
@@ -72,7 +57,7 @@
     "open_issues_count": 87,
     "language": "JavaScript",
     "updated_at": "2025-01-22T23:43:23Z",
-    "score": 0.20206
+    "score": 0.26845
   },
   {
     "id": 74293321,
@@ -80,14 +65,14 @@
     "full_name": "sveltejs/svelte",
     "html_url": "https://github.com/sveltejs/svelte",
     "description": "web development for the rest of us",
-    "stargazers_count": 81004,
+    "stargazers_count": 81005,
     "forks_count": 4337,
-    "watchers_count": 81004,
+    "watchers_count": 81005,
     "subscribers_count": 847,
     "open_issues_count": 784,
     "language": "JavaScript",
-    "updated_at": "2025-01-22T23:47:37Z",
-    "score": 0.19335
+    "updated_at": "2025-01-23T00:33:45Z",
+    "score": 0.25903
   },
   {
     "id": 106017343,
@@ -95,14 +80,14 @@
     "full_name": "tailwindlabs/tailwindcss",
     "html_url": "https://github.com/tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
-    "stargazers_count": 84690,
-    "forks_count": 4294,
-    "watchers_count": 84690,
+    "stargazers_count": 84694,
+    "forks_count": 4295,
+    "watchers_count": 84694,
     "subscribers_count": 624,
     "open_issues_count": 116,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T00:07:42Z",
-    "score": 0.17965
+    "updated_at": "2025-01-23T00:59:30Z",
+    "score": 0.2457
   },
   {
     "id": 3678731,
@@ -117,7 +102,7 @@
     "open_issues_count": 257,
     "language": "JavaScript",
     "updated_at": "2025-01-22T21:24:30Z",
-    "score": 0.15651
+    "score": 0.22574
   },
   {
     "id": 71995937,
@@ -132,7 +117,7 @@
     "open_issues_count": 905,
     "language": "TypeScript",
     "updated_at": "2025-01-22T23:35:31Z",
-    "score": 0.12639
+    "score": 0.19886
   },
   {
     "id": 1801829,
@@ -147,6 +132,21 @@
     "open_issues_count": 379,
     "language": "JavaScript",
     "updated_at": "2025-01-22T08:18:55Z",
-    "score": 0.01251
+    "score": 0.09517
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   }
 ]

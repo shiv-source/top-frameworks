@@ -12,7 +12,7 @@
     "open_issues_count": 2533,
     "language": "Go",
     "updated_at": "2025-01-22T23:55:13Z",
-    "score": 0.98515
+    "score": 0.98505
   },
   {
     "id": 7691631,
@@ -27,7 +27,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-22T18:52:43Z",
-    "score": 0.62293
+    "score": 0.61323
   },
   {
     "id": 3638964,
@@ -42,7 +42,7 @@
     "open_issues_count": 865,
     "language": "Python",
     "updated_at": "2025-01-22T21:06:31Z",
-    "score": 0.56042
+    "score": 0.54971
   },
   {
     "id": 6838921,
@@ -57,7 +57,7 @@
     "open_issues_count": 717,
     "language": "Go",
     "updated_at": "2025-01-22T21:25:45Z",
-    "score": 0.40654
+    "score": 0.39205
   },
   {
     "id": 17728164,
@@ -72,7 +72,7 @@
     "open_issues_count": 1983,
     "language": "Go",
     "updated_at": "2025-01-22T23:57:37Z",
-    "score": 0.35756
+    "score": 0.34138
   },
   {
     "id": 26783295,
@@ -84,10 +84,10 @@
     "forks_count": 4843,
     "watchers_count": 39809,
     "subscribers_count": 1020,
-    "open_issues_count": 144,
+    "open_issues_count": 145,
     "language": "Lua",
     "updated_at": "2025-01-22T20:35:19Z",
-    "score": 0.27621
+    "score": 0.25847
   },
   {
     "id": 43723161,
@@ -102,7 +102,7 @@
     "open_issues_count": 776,
     "language": "Go",
     "updated_at": "2025-01-23T00:12:39Z",
-    "score": 0.21742
+    "score": 0.19788
   },
   {
     "id": 1103607,
@@ -117,7 +117,7 @@
     "open_issues_count": 86,
     "language": "Java",
     "updated_at": "2025-01-23T00:12:22Z",
-    "score": 0.20902
+    "score": 0.18939
   },
   {
     "id": 26337322,
@@ -132,7 +132,7 @@
     "open_issues_count": 3033,
     "language": "Go",
     "updated_at": "2025-01-22T21:39:59Z",
-    "score": 0.207
+    "score": 0.18662
   },
   {
     "id": 481872,
@@ -147,7 +147,7 @@
     "open_issues_count": 768,
     "language": "Ruby",
     "updated_at": "2025-01-22T23:41:44Z",
-    "score": 0.20164
+    "score": 0.18172
   },
   {
     "id": 2500088,
@@ -161,8 +161,8 @@
     "subscribers_count": 962,
     "open_issues_count": 36,
     "language": "Ruby",
-    "updated_at": "2025-01-22T21:49:06Z",
-    "score": 0.1936
+    "updated_at": "2025-01-23T00:44:47Z",
+    "score": 0.17363
   },
   {
     "id": 120896210,
@@ -177,7 +177,7 @@
     "open_issues_count": 3603,
     "language": "Go",
     "updated_at": "2025-01-23T00:12:08Z",
-    "score": 0.18958
+    "score": 0.16853
   },
   {
     "id": 135516270,
@@ -192,7 +192,7 @@
     "open_issues_count": 144,
     "language": "Go",
     "updated_at": "2025-01-22T19:14:32Z",
-    "score": 0.17824
+    "score": 0.15793
   },
   {
     "id": 77144337,
@@ -207,7 +207,7 @@
     "open_issues_count": 34,
     "language": "Go",
     "updated_at": "2025-01-22T21:20:34Z",
-    "score": 0.16256
+    "score": 0.14185
   },
   {
     "id": 16554739,
@@ -222,7 +222,22 @@
     "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-22T16:23:16Z",
-    "score": 0.13054
+    "score": 0.10864
+  },
+  {
+    "id": 108278,
+    "name": "chef",
+    "full_name": "chef/chef",
+    "html_url": "https://github.com/chef/chef",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+    "stargazers_count": 7648,
+    "forks_count": 2511,
+    "watchers_count": 7648,
+    "subscribers_count": 368,
+    "open_issues_count": 439,
+    "language": "Ruby",
+    "updated_at": "2025-01-22T17:43:16Z",
+    "score": 0.05076
   },
   {
     "id": 21436816,
@@ -237,7 +252,7 @@
     "open_issues_count": 125,
     "language": "Shell",
     "updated_at": "2025-01-22T19:02:16Z",
-    "score": 0.06998
+    "score": 0.04677
   },
   {
     "id": 99143276,
@@ -252,7 +267,7 @@
     "open_issues_count": 617,
     "language": "Go",
     "updated_at": "2025-01-22T20:56:50Z",
-    "score": 0.06939
+    "score": 0.04603
   },
   {
     "id": 910744,
@@ -267,7 +282,7 @@
     "open_issues_count": 73,
     "language": "Ruby",
     "updated_at": "2025-01-22T16:00:10Z",
-    "score": 0.06911
+    "score": 0.04586
   },
   {
     "id": 21591001,
@@ -282,7 +297,7 @@
     "open_issues_count": 320,
     "language": "Go",
     "updated_at": "2025-01-22T19:46:31Z",
-    "score": 0.06545
+    "score": 0.04207
   },
   {
     "id": 49970739,
@@ -296,8 +311,8 @@
     "subscribers_count": 565,
     "open_issues_count": 1202,
     "language": "Go",
-    "updated_at": "2025-01-23T00:01:18Z",
-    "score": 0.05769
+    "updated_at": "2025-01-23T00:49:17Z",
+    "score": 0.03383
   },
   {
     "id": 110027931,
@@ -312,36 +327,21 @@
     "open_issues_count": 106,
     "language": "Go",
     "updated_at": "2025-01-22T14:12:54Z",
-    "score": 0.04913
+    "score": 0.02538
   },
   {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
+    "id": 101660954,
+    "name": "terraform-aws-vpc",
+    "full_name": "terraform-aws-modules/terraform-aws-vpc",
+    "html_url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "description": "Terraform module to create AWS VPC resources 🇺🇦",
+    "stargazers_count": 3020,
+    "forks_count": 4464,
+    "watchers_count": 3020,
+    "subscribers_count": 80,
+    "open_issues_count": 24,
+    "language": "HCL",
+    "updated_at": "2025-01-20T01:22:45Z",
+    "score": 0.0229
   }
 ]

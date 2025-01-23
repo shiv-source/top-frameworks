@@ -9,10 +9,10 @@
     "forks_count": 40875,
     "watchers_count": 75926,
     "subscribers_count": 3358,
-    "open_issues_count": 559,
+    "open_issues_count": 560,
     "language": "Java",
     "updated_at": "2025-01-22T22:32:40Z",
-    "score": 0.91338
+    "score": 0.92794
   },
   {
     "id": 4164482,
@@ -27,7 +27,7 @@
     "open_issues_count": 306,
     "language": "Python",
     "updated_at": "2025-01-22T22:51:05Z",
-    "score": 0.86884
+    "score": 0.87679
   },
   {
     "id": 1148753,
@@ -42,7 +42,7 @@
     "open_issues_count": 300,
     "language": "Java",
     "updated_at": "2025-01-22T19:00:53Z",
-    "score": 0.75579
+    "score": 0.76358
   },
   {
     "id": 20904437,
@@ -57,7 +57,7 @@
     "open_issues_count": 837,
     "language": "Go",
     "updated_at": "2025-01-22T21:38:21Z",
-    "score": 0.68697
+    "score": 0.70871
   },
   {
     "id": 596892,
@@ -72,22 +72,7 @@
     "open_issues_count": 6,
     "language": "Python",
     "updated_at": "2025-01-22T22:51:05Z",
-    "score": 0.66467
-  },
-  {
-    "id": 237159,
-    "name": "express",
-    "full_name": "expressjs/express",
-    "html_url": "https://github.com/expressjs/express",
-    "description": "Fast, unopinionated, minimalist web framework for node.",
-    "stargazers_count": 66113,
-    "forks_count": 17186,
-    "watchers_count": 66113,
-    "subscribers_count": 1693,
-    "open_issues_count": 194,
-    "language": "JavaScript",
-    "updated_at": "2025-01-22T22:52:26Z",
-    "score": 0.642
+    "score": 0.66482
   },
   {
     "id": 8514,
@@ -102,7 +87,22 @@
     "open_issues_count": 1251,
     "language": "Ruby",
     "updated_at": "2025-01-22T23:17:42Z",
-    "score": 0.63198
+    "score": 0.66447
+  },
+  {
+    "id": 237159,
+    "name": "express",
+    "full_name": "expressjs/express",
+    "html_url": "https://github.com/expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "stargazers_count": 66113,
+    "forks_count": 17186,
+    "watchers_count": 66113,
+    "subscribers_count": 1693,
+    "open_issues_count": 194,
+    "language": "JavaScript",
+    "updated_at": "2025-01-22T22:52:26Z",
+    "score": 0.64704
   },
   {
     "id": 80945428,
@@ -110,29 +110,14 @@
     "full_name": "nestjs/nest",
     "html_url": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
-    "stargazers_count": 69039,
+    "stargazers_count": 69040,
     "forks_count": 7727,
-    "watchers_count": 69039,
+    "watchers_count": 69040,
     "subscribers_count": 737,
-    "open_issues_count": 45,
+    "open_issues_count": 48,
     "language": "TypeScript",
-    "updated_at": "2025-01-22T23:20:09Z",
-    "score": 0.575
-  },
-  {
-    "id": 17620347,
-    "name": "aspnetcore",
-    "full_name": "dotnet/aspnetcore",
-    "html_url": "https://github.com/dotnet/aspnetcore",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-    "stargazers_count": 35847,
-    "forks_count": 10181,
-    "watchers_count": 35847,
-    "subscribers_count": 1446,
-    "open_issues_count": 3574,
-    "language": "C#",
-    "updated_at": "2025-01-22T22:49:47Z",
-    "score": 0.41763
+    "updated_at": "2025-01-23T00:52:03Z",
+    "score": 0.5763
   },
   {
     "id": 7548986,
@@ -140,14 +125,14 @@
     "full_name": "laravel/framework",
     "html_url": "https://github.com/laravel/framework",
     "description": "The Laravel Framework.",
-    "stargazers_count": 32972,
+    "stargazers_count": 32973,
     "forks_count": 11147,
-    "watchers_count": 32972,
+    "watchers_count": 32973,
     "subscribers_count": 974,
-    "open_issues_count": 62,
+    "open_issues_count": 63,
     "language": "PHP",
-    "updated_at": "2025-01-22T22:27:09Z",
-    "score": 0.33931
+    "updated_at": "2025-01-23T00:57:39Z",
+    "score": 0.34097
   },
   {
     "id": 11551538,
@@ -162,7 +147,7 @@
     "open_issues_count": 30,
     "language": "JavaScript",
     "updated_at": "2025-01-22T16:54:15Z",
-    "score": 0.30318
+    "score": 0.30396
   },
   {
     "id": 3577919,
@@ -177,7 +162,22 @@
     "open_issues_count": 11,
     "language": "Go",
     "updated_at": "2025-01-22T08:16:30Z",
-    "score": 0.30205
+    "score": 0.30233
+  },
+  {
+    "id": 3757512,
+    "name": "sails",
+    "full_name": "balderdashy/sails",
+    "html_url": "https://github.com/balderdashy/sails",
+    "description": "Realtime MVC Framework for Node.js",
+    "stargazers_count": 22871,
+    "forks_count": 1949,
+    "watchers_count": 22871,
+    "subscribers_count": 638,
+    "open_issues_count": 591,
+    "language": "JavaScript",
+    "updated_at": "2025-01-22T19:33:15Z",
+    "score": 0.22189
   },
   {
     "id": 33702544,
@@ -192,7 +192,7 @@
     "open_issues_count": 516,
     "language": "Python",
     "updated_at": "2025-01-22T21:35:39Z",
-    "score": 0.19253
+    "score": 0.20593
   },
   {
     "id": 13258039,
@@ -207,7 +207,7 @@
     "open_issues_count": 246,
     "language": "Python",
     "updated_at": "2025-01-22T15:04:18Z",
-    "score": 0.1348
+    "score": 0.14119
   },
   {
     "id": 2163263,
@@ -222,7 +222,7 @@
     "open_issues_count": 85,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:04:58Z",
-    "score": 0.12878
+    "score": 0.13099
   },
   {
     "id": 26726495,
@@ -237,7 +237,7 @@
     "open_issues_count": 601,
     "language": "Go",
     "updated_at": "2025-01-22T12:03:46Z",
-    "score": 0.09008
+    "score": 0.10569
   },
   {
     "id": 7040500,
@@ -252,22 +252,7 @@
     "open_issues_count": 168,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:05Z",
-    "score": 0.08591
-  },
-  {
-    "id": 239940,
-    "name": "bottle",
-    "full_name": "bottlepy/bottle",
-    "html_url": "https://github.com/bottlepy/bottle",
-    "description": "bottle.py is a fast and simple micro-framework for python web-applications.",
-    "stargazers_count": 8518,
-    "forks_count": 1468,
-    "watchers_count": 8518,
-    "subscribers_count": 309,
-    "open_issues_count": 293,
-    "language": "Python",
-    "updated_at": "2025-01-22T21:40:23Z",
-    "score": 0.08461
+    "score": 0.09028
   },
   {
     "id": 37173512,
@@ -282,7 +267,7 @@
     "open_issues_count": 12,
     "language": "Java",
     "updated_at": "2025-01-22T06:34:14Z",
-    "score": 0.0586
+    "score": 0.05892
   },
   {
     "id": 206483,
@@ -297,7 +282,7 @@
     "open_issues_count": 78,
     "language": "Java",
     "updated_at": "2025-01-22T21:38:24Z",
-    "score": 0.05682
+    "score": 0.05885
   },
   {
     "id": 1020639,
@@ -312,7 +297,7 @@
     "open_issues_count": 78,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:13Z",
-    "score": 0.04066
+    "score": 0.04269
   },
   {
     "id": 57436777,
@@ -327,7 +312,22 @@
     "open_issues_count": 255,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:19Z",
-    "score": 0.02105
+    "score": 0.02767
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   },
   {
     "id": 0,
