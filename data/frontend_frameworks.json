@@ -12,7 +12,7 @@
     "open_issues_count": 973,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:47:02Z",
-    "score": 0.87023
+    "score": 0.87025
   },
   {
     "id": 2126244,
@@ -20,14 +20,14 @@
     "full_name": "twbs/bootstrap",
     "html_url": "https://github.com/twbs/bootstrap",
     "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-    "stargazers_count": 171252,
+    "stargazers_count": 171253,
     "forks_count": 78973,
-    "watchers_count": 171252,
+    "watchers_count": 171253,
     "subscribers_count": 6719,
     "open_issues_count": 659,
     "language": "JavaScript",
-    "updated_at": "2025-01-23T08:04:15Z",
-    "score": 0.79439
+    "updated_at": "2025-01-23T09:05:11Z",
+    "score": 0.7944
   },
   {
     "id": 11730342,
@@ -42,7 +42,7 @@
     "open_issues_count": 600,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:34:36Z",
-    "score": 0.73328
+    "score": 0.73329
   },
   {
     "id": 24195339,
@@ -54,7 +54,7 @@
     "forks_count": 25759,
     "watchers_count": 96667,
     "subscribers_count": 3007,
-    "open_issues_count": 1719,
+    "open_issues_count": 1718,
     "language": "TypeScript",
     "updated_at": "2025-01-23T06:30:04Z",
     "score": 0.37398
@@ -87,7 +87,7 @@
     "open_issues_count": 785,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:45:01Z",
-    "score": 0.19338
+    "score": 0.19339
   },
   {
     "id": 106017343,
@@ -99,10 +99,10 @@
     "forks_count": 4297,
     "watchers_count": 84733,
     "subscribers_count": 624,
-    "open_issues_count": 117,
+    "open_issues_count": 118,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:53:33Z",
-    "score": 0.17979
+    "score": 0.17982
   },
   {
     "id": 3678731,
@@ -117,7 +117,7 @@
     "open_issues_count": 257,
     "language": "JavaScript",
     "updated_at": "2025-01-23T03:19:25Z",
-    "score": 0.15649
+    "score": 0.1565
   },
   {
     "id": 71995937,
@@ -132,7 +132,7 @@
     "open_issues_count": 907,
     "language": "TypeScript",
     "updated_at": "2025-01-23T09:02:08Z",
-    "score": 0.12645
+    "score": 0.12646
   },
   {
     "id": 1801829,

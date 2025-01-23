@@ -5,14 +5,14 @@
     "full_name": "spring-projects/spring-boot",
     "html_url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-    "stargazers_count": 75936,
+    "stargazers_count": 75937,
     "forks_count": 40874,
-    "watchers_count": 75936,
+    "watchers_count": 75937,
     "subscribers_count": 3359,
     "open_issues_count": 561,
     "language": "Java",
-    "updated_at": "2025-01-23T09:04:49Z",
-    "score": 0.91343
+    "updated_at": "2025-01-23T09:05:19Z",
+    "score": 0.91233
   },
   {
     "id": 4164482,
@@ -20,14 +20,14 @@
     "full_name": "django/django",
     "html_url": "https://github.com/django/django",
     "description": "The Web framework for perfectionists with deadlines.",
-    "stargazers_count": 82007,
+    "stargazers_count": 82008,
     "forks_count": 32112,
-    "watchers_count": 82007,
+    "watchers_count": 82008,
     "subscribers_count": 2289,
     "open_issues_count": 307,
     "language": "Python",
-    "updated_at": "2025-01-23T08:33:39Z",
-    "score": 0.86885
+    "updated_at": "2025-01-23T09:06:23Z",
+    "score": 0.86778
   },
   {
     "id": 1148753,
@@ -42,7 +42,7 @@
     "open_issues_count": 300,
     "language": "Java",
     "updated_at": "2025-01-23T07:31:48Z",
-    "score": 0.75578
+    "score": 0.7513
   },
   {
     "id": 20904437,
@@ -51,13 +51,13 @@
     "html_url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "stargazers_count": 79972,
-    "forks_count": 8084,
+    "forks_count": 8083,
     "watchers_count": 79972,
     "subscribers_count": 1367,
     "open_issues_count": 838,
     "language": "Go",
     "updated_at": "2025-01-23T08:18:53Z",
-    "score": 0.68698
+    "score": 0.68379
   },
   {
     "id": 596892,
@@ -72,7 +72,7 @@
     "open_issues_count": 6,
     "language": "Python",
     "updated_at": "2025-01-23T06:59:34Z",
-    "score": 0.66466
+    "score": 0.66034
   },
   {
     "id": 237159,
@@ -81,13 +81,13 @@
     "html_url": "https://github.com/expressjs/express",
     "description": "Fast, unopinionated, minimalist web framework for node.",
     "stargazers_count": 66118,
-    "forks_count": 17191,
+    "forks_count": 17192,
     "watchers_count": 66118,
     "subscribers_count": 1693,
     "open_issues_count": 194,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:46:49Z",
-    "score": 0.64201
+    "score": 0.63712
   },
   {
     "id": 8514,
@@ -102,7 +102,7 @@
     "open_issues_count": 1249,
     "language": "Ruby",
     "updated_at": "2025-01-23T09:01:53Z",
-    "score": 0.63189
+    "score": 0.6259
   },
   {
     "id": 80945428,
@@ -117,7 +117,7 @@
     "open_issues_count": 43,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:55:51Z",
-    "score": 0.57497
+    "score": 0.56958
   },
   {
     "id": 17620347,
@@ -132,7 +132,7 @@
     "open_issues_count": 3573,
     "language": "C#",
     "updated_at": "2025-01-23T08:58:34Z",
-    "score": 0.41761
+    "score": 0.40712
   },
   {
     "id": 7548986,
@@ -147,7 +147,7 @@
     "open_issues_count": 64,
     "language": "PHP",
     "updated_at": "2025-01-23T07:49:13Z",
-    "score": 0.33935
+    "score": 0.32812
   },
   {
     "id": 11551538,
@@ -162,7 +162,7 @@
     "open_issues_count": 30,
     "language": "JavaScript",
     "updated_at": "2025-01-22T16:54:15Z",
-    "score": 0.30315
+    "score": 0.29181
   },
   {
     "id": 3577919,
@@ -177,7 +177,7 @@
     "open_issues_count": 11,
     "language": "Go",
     "updated_at": "2025-01-23T07:31:18Z",
-    "score": 0.30204
+    "score": 0.2904
   },
   {
     "id": 3757512,
@@ -192,7 +192,7 @@
     "open_issues_count": 591,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:33:15Z",
-    "score": 0.20652
+    "score": 0.19291
   },
   {
     "id": 13258039,
@@ -207,7 +207,7 @@
     "open_issues_count": 246,
     "language": "Python",
     "updated_at": "2025-01-23T08:06:48Z",
-    "score": 0.13479
+    "score": 0.1197
   },
   {
     "id": 2163263,
@@ -222,7 +222,7 @@
     "open_issues_count": 85,
     "language": "JavaScript",
     "updated_at": "2025-01-23T03:58:34Z",
-    "score": 0.12878
+    "score": 0.11362
   },
   {
     "id": 26726495,
@@ -237,7 +237,7 @@
     "open_issues_count": 601,
     "language": "Go",
     "updated_at": "2025-01-23T08:24:29Z",
-    "score": 0.09008
+    "score": 0.07393
   },
   {
     "id": 7040500,
@@ -252,7 +252,7 @@
     "open_issues_count": 168,
     "language": "Python",
     "updated_at": "2025-01-23T02:36:14Z",
-    "score": 0.0859
+    "score": 0.06978
   },
   {
     "id": 239940,
@@ -267,7 +267,7 @@
     "open_issues_count": 293,
     "language": "Python",
     "updated_at": "2025-01-23T07:14:23Z",
-    "score": 0.08461
+    "score": 0.06837
   },
   {
     "id": 37173512,
@@ -282,7 +282,22 @@
     "open_issues_count": 12,
     "language": "Java",
     "updated_at": "2025-01-22T06:34:14Z",
-    "score": 0.0586
+    "score": 0.04186
+  },
+  {
+    "id": 206483,
+    "name": "maven",
+    "full_name": "apache/maven",
+    "html_url": "https://github.com/apache/maven",
+    "description": "Apache Maven core",
+    "stargazers_count": 4451,
+    "forks_count": 2696,
+    "watchers_count": 4451,
+    "subscribers_count": 224,
+    "open_issues_count": 78,
+    "language": "Java",
+    "updated_at": "2025-01-22T21:38:24Z",
+    "score": 0.0399
   },
   {
     "id": 1020639,
@@ -297,7 +312,7 @@
     "open_issues_count": 78,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:13Z",
-    "score": 0.04066
+    "score": 0.02354
   },
   {
     "id": 57436777,
@@ -312,21 +327,6 @@
     "open_issues_count": 255,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:19Z",
-    "score": 0.02105
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
+    "score": 0.00349
   }
 ]

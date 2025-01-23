@@ -20,13 +20,13 @@
     "full_name": "twbs/bootstrap",
     "html_url": "https://github.com/twbs/bootstrap",
     "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-    "stargazers_count": 171252,
+    "stargazers_count": 171253,
     "forks_count": 78973,
-    "watchers_count": 171252,
+    "watchers_count": 171253,
     "subscribers_count": 6719,
     "open_issues_count": 659,
     "language": "JavaScript",
-    "updated_at": "2025-01-23T08:04:15Z",
+    "updated_at": "2025-01-23T09:05:11Z",
     "score": 0.79615
   },
   {
@@ -42,7 +42,7 @@
     "open_issues_count": 600,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:34:36Z",
-    "score": 0.73569
+    "score": 0.73568
   },
   {
     "id": 31792824,
@@ -51,7 +51,7 @@
     "html_url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "stargazers_count": 168107,
-    "forks_count": 27923,
+    "forks_count": 27924,
     "watchers_count": 168107,
     "subscribers_count": 3511,
     "open_issues_count": 13395,
@@ -72,7 +72,7 @@
     "open_issues_count": 2536,
     "language": "Go",
     "updated_at": "2025-01-23T09:00:24Z",
-    "score": 0.47575
+    "score": 0.47574
   },
   {
     "id": 29028775,
@@ -87,7 +87,7 @@
     "open_issues_count": 878,
     "language": "C++",
     "updated_at": "2025-01-23T07:08:10Z",
-    "score": 0.44566
+    "score": 0.44565
   },
   {
     "id": 27193779,
@@ -102,7 +102,7 @@
     "open_issues_count": 2118,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:37:01Z",
-    "score": 0.43026
+    "score": 0.43025
   },
   {
     "id": 24195339,
@@ -114,10 +114,10 @@
     "forks_count": 25759,
     "watchers_count": 96667,
     "subscribers_count": 3007,
-    "open_issues_count": 1719,
+    "open_issues_count": 1718,
     "language": "TypeScript",
     "updated_at": "2025-01-23T06:30:04Z",
-    "score": 0.38316
+    "score": 0.38315
   },
   {
     "id": 6296790,
@@ -125,14 +125,14 @@
     "full_name": "spring-projects/spring-boot",
     "html_url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-    "stargazers_count": 75936,
+    "stargazers_count": 75937,
     "forks_count": 40874,
-    "watchers_count": 75936,
+    "watchers_count": 75937,
     "subscribers_count": 3359,
     "open_issues_count": 561,
     "language": "Java",
-    "updated_at": "2025-01-23T09:04:49Z",
-    "score": 0.37822
+    "updated_at": "2025-01-23T09:05:19Z",
+    "score": 0.37821
   },
   {
     "id": 724712,
@@ -147,7 +147,7 @@
     "open_issues_count": 10603,
     "language": "Rust",
     "updated_at": "2025-01-23T09:04:43Z",
-    "score": 0.36352
+    "score": 0.36351
   },
   {
     "id": 20929025,
@@ -162,7 +162,7 @@
     "open_issues_count": 5992,
     "language": "TypeScript",
     "updated_at": "2025-01-23T09:02:49Z",
-    "score": 0.35801
+    "score": 0.358
   },
   {
     "id": 4164482,
@@ -170,14 +170,14 @@
     "full_name": "django/django",
     "html_url": "https://github.com/django/django",
     "description": "The Web framework for perfectionists with deadlines.",
-    "stargazers_count": 82007,
+    "stargazers_count": 82008,
     "forks_count": 32112,
-    "watchers_count": 82007,
+    "watchers_count": 82008,
     "subscribers_count": 2289,
     "open_issues_count": 307,
     "language": "Python",
-    "updated_at": "2025-01-23T08:33:39Z",
-    "score": 0.34934
+    "updated_at": "2025-01-23T09:06:23Z",
+    "score": 0.34933
   },
   {
     "id": 81598961,
@@ -192,7 +192,7 @@
     "open_issues_count": 8990,
     "language": "Python",
     "updated_at": "2025-01-23T07:42:20Z",
-    "score": 0.32218
+    "score": 0.32217
   },
   {
     "id": 507775,
@@ -204,10 +204,10 @@
     "forks_count": 24994,
     "watchers_count": 71380,
     "subscribers_count": 2683,
-    "open_issues_count": 4812,
+    "open_issues_count": 4811,
     "language": "Java",
     "updated_at": "2025-01-23T09:02:01Z",
-    "score": 0.32195
+    "score": 0.32194
   },
   {
     "id": 1148753,
@@ -222,7 +222,7 @@
     "open_issues_count": 300,
     "language": "Java",
     "updated_at": "2025-01-23T07:31:48Z",
-    "score": 0.31998
+    "score": 0.31997
   },
   {
     "id": 156018,
@@ -237,7 +237,7 @@
     "open_issues_count": 2542,
     "language": "C",
     "updated_at": "2025-01-23T08:14:03Z",
-    "score": 0.29839
+    "score": 0.29838
   },
   {
     "id": 7691631,
@@ -252,7 +252,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-23T05:38:39Z",
-    "score": 0.29396
+    "score": 0.29395
   },
   {
     "id": 90796663,
@@ -267,7 +267,7 @@
     "open_issues_count": 268,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:20:29Z",
-    "score": 0.27951
+    "score": 0.2795
   },
   {
     "id": 44838949,
@@ -278,11 +278,26 @@
     "stargazers_count": 67933,
     "forks_count": 10398,
     "watchers_count": 67933,
-    "subscribers_count": 2458,
+    "subscribers_count": 2459,
     "open_issues_count": 7948,
     "language": "C++",
     "updated_at": "2025-01-23T08:56:27Z",
     "score": 0.27517
+  },
+  {
+    "id": 3638964,
+    "name": "ansible",
+    "full_name": "ansible/ansible",
+    "html_url": "https://github.com/ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "stargazers_count": 63727,
+    "forks_count": 23943,
+    "watchers_count": 63727,
+    "subscribers_count": 1906,
+    "open_issues_count": 867,
+    "language": "Python",
+    "updated_at": "2025-01-23T08:34:14Z",
+    "score": 0.27249
   },
   {
     "id": 167174,
@@ -297,7 +312,7 @@
     "open_issues_count": 87,
     "language": "JavaScript",
     "updated_at": "2025-01-23T07:22:11Z",
-    "score": 0.26624
+    "score": 0.26623
   },
   {
     "id": 596892,
@@ -312,7 +327,7 @@
     "open_issues_count": 6,
     "language": "Python",
     "updated_at": "2025-01-23T06:59:34Z",
-    "score": 0.26081
+    "score": 0.2608
   },
   {
     "id": 20904437,
@@ -321,13 +336,13 @@
     "html_url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "stargazers_count": 79972,
-    "forks_count": 8084,
+    "forks_count": 8083,
     "watchers_count": 79972,
     "subscribers_count": 1367,
     "open_issues_count": 838,
     "language": "Go",
     "updated_at": "2025-01-23T08:18:53Z",
-    "score": 0.25626
+    "score": 0.25624
   },
   {
     "id": 8514,
@@ -342,7 +357,7 @@
     "open_issues_count": 1249,
     "language": "Ruby",
     "updated_at": "2025-01-23T09:01:53Z",
-    "score": 0.25407
+    "score": 0.25406
   },
   {
     "id": 237159,
@@ -351,13 +366,13 @@
     "html_url": "https://github.com/expressjs/express",
     "description": "Fast, unopinionated, minimalist web framework for node.",
     "stargazers_count": 66118,
-    "forks_count": 17191,
+    "forks_count": 17192,
     "watchers_count": 66118,
     "subscribers_count": 1693,
     "open_issues_count": 194,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:46:49Z",
-    "score": 0.25164
+    "score": 0.25163
   },
   {
     "id": 106017343,
@@ -369,10 +384,10 @@
     "forks_count": 4297,
     "watchers_count": 84733,
     "subscribers_count": 624,
-    "open_issues_count": 117,
+    "open_issues_count": 118,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:53:33Z",
-    "score": 0.24286
+    "score": 0.24285
   },
   {
     "id": 74293321,
@@ -387,7 +402,7 @@
     "open_issues_count": 785,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:45:01Z",
-    "score": 0.23916
+    "score": 0.23914
   },
   {
     "id": 3678731,
@@ -402,7 +417,7 @@
     "open_issues_count": 257,
     "language": "JavaScript",
     "updated_at": "2025-01-23T03:19:25Z",
-    "score": 0.21921
+    "score": 0.2192
   },
   {
     "id": 80945428,
@@ -417,7 +432,7 @@
     "open_issues_count": 43,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:55:51Z",
-    "score": 0.21448
+    "score": 0.21446
   },
   {
     "id": 12256376,
@@ -432,7 +447,7 @@
     "open_issues_count": 545,
     "language": "TypeScript",
     "updated_at": "2025-01-23T07:20:26Z",
-    "score": 0.20146
+    "score": 0.20144
   },
   {
     "id": 221981891,
@@ -447,7 +462,7 @@
     "open_issues_count": 711,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:55:25Z",
-    "score": 0.19989
+    "score": 0.19988
   },
   {
     "id": 6838921,
@@ -462,7 +477,7 @@
     "open_issues_count": 718,
     "language": "Go",
     "updated_at": "2025-01-23T08:22:13Z",
-    "score": 0.1964
+    "score": 0.19638
   },
   {
     "id": 11225014,
@@ -477,7 +492,7 @@
     "open_issues_count": 417,
     "language": "Go",
     "updated_at": "2025-01-23T08:50:15Z",
-    "score": 0.17722
+    "score": 0.1772
   },
   {
     "id": 71995937,
@@ -492,7 +507,7 @@
     "open_issues_count": 907,
     "language": "TypeScript",
     "updated_at": "2025-01-23T09:02:08Z",
-    "score": 0.17592
+    "score": 0.17591
   },
   {
     "id": 3432266,
@@ -507,7 +522,7 @@
     "open_issues_count": 172,
     "language": "Kotlin",
     "updated_at": "2025-01-23T08:39:24Z",
-    "score": 0.17062
+    "score": 0.17061
   },
   {
     "id": 17728164,
@@ -522,7 +537,7 @@
     "open_issues_count": 1984,
     "language": "Go",
     "updated_at": "2025-01-23T09:03:00Z",
-    "score": 0.16885
+    "score": 0.16883
   },
   {
     "id": 17620347,
@@ -537,7 +552,7 @@
     "open_issues_count": 3573,
     "language": "C#",
     "updated_at": "2025-01-23T08:58:34Z",
-    "score": 0.15997
+    "score": 0.15995
   },
   {
     "id": 1903522,
@@ -552,7 +567,7 @@
     "open_issues_count": 1305,
     "language": "C",
     "updated_at": "2025-01-23T05:59:38Z",
-    "score": 0.14992
+    "score": 0.14991
   },
   {
     "id": 31629751,
@@ -567,7 +582,7 @@
     "open_issues_count": 1406,
     "language": "JavaScript",
     "updated_at": "2025-01-23T05:50:04Z",
-    "score": 0.14792
+    "score": 0.14791
   },
   {
     "id": 15062869,
@@ -582,7 +597,7 @@
     "open_issues_count": 335,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:45:35Z",
-    "score": 0.14524
+    "score": 0.14523
   },
   {
     "id": 7548986,
@@ -597,7 +612,7 @@
     "open_issues_count": 64,
     "language": "PHP",
     "updated_at": "2025-01-23T07:49:13Z",
-    "score": 0.13546
+    "score": 0.13545
   },
   {
     "id": 26783295,
@@ -612,7 +627,7 @@
     "open_issues_count": 144,
     "language": "Lua",
     "updated_at": "2025-01-23T08:59:51Z",
-    "score": 0.1342
+    "score": 0.13419
   },
   {
     "id": 7613257,
@@ -627,7 +642,7 @@
     "open_issues_count": 202,
     "language": "Java",
     "updated_at": "2025-01-23T07:34:13Z",
-    "score": 0.12734
+    "score": 0.12733
   },
   {
     "id": 16563587,
@@ -642,7 +657,7 @@
     "open_issues_count": 6782,
     "language": "Go",
     "updated_at": "2025-01-23T08:52:39Z",
-    "score": 0.12655
+    "score": 0.12653
   },
   {
     "id": 3577919,
@@ -657,7 +672,7 @@
     "open_issues_count": 11,
     "language": "Go",
     "updated_at": "2025-01-23T07:31:18Z",
-    "score": 0.11767
+    "score": 0.11766
   },
   {
     "id": 11551538,
@@ -672,7 +687,7 @@
     "open_issues_count": 30,
     "language": "JavaScript",
     "updated_at": "2025-01-22T16:54:15Z",
-    "score": 0.11414
+    "score": 0.11413
   },
   {
     "id": 13124802,
@@ -687,7 +702,7 @@
     "open_issues_count": 2063,
     "language": "Rust",
     "updated_at": "2025-01-23T06:46:10Z",
-    "score": 0.10604
+    "score": 0.10602
   },
   {
     "id": 108110,
@@ -702,7 +717,7 @@
     "open_issues_count": 80,
     "language": "C++",
     "updated_at": "2025-01-23T07:08:26Z",
-    "score": 0.10583
+    "score": 0.10582
   },
   {
     "id": 43723161,
@@ -717,7 +732,7 @@
     "open_issues_count": 776,
     "language": "Go",
     "updated_at": "2025-01-23T02:36:25Z",
-    "score": 0.10414
+    "score": 0.10412
   },
   {
     "id": 1103607,
@@ -732,7 +747,22 @@
     "open_issues_count": 83,
     "language": "Java",
     "updated_at": "2025-01-23T08:40:05Z",
-    "score": 0.1023
+    "score": 0.10229
+  },
+  {
+    "id": 481872,
+    "name": "vagrant",
+    "full_name": "hashicorp/vagrant",
+    "html_url": "https://github.com/hashicorp/vagrant",
+    "description": "Vagrant is a tool for building and distributing development environments.",
+    "stargazers_count": 26428,
+    "forks_count": 4436,
+    "watchers_count": 26428,
+    "subscribers_count": 720,
+    "open_issues_count": 768,
+    "language": "Ruby",
+    "updated_at": "2025-01-23T05:49:54Z",
+    "score": 0.09608
   },
   {
     "id": 2500088,
@@ -747,7 +777,7 @@
     "open_issues_count": 36,
     "language": "Ruby",
     "updated_at": "2025-01-23T07:43:07Z",
-    "score": 0.09451
+    "score": 0.0945
   },
   {
     "id": 538746,
@@ -762,7 +792,7 @@
     "open_issues_count": 426,
     "language": "Ruby",
     "updated_at": "2025-01-23T07:11:35Z",
-    "score": 0.09258
+    "score": 0.09257
   },
   {
     "id": 26337322,
@@ -777,7 +807,7 @@
     "open_issues_count": 3038,
     "language": "Go",
     "updated_at": "2025-01-23T08:03:38Z",
-    "score": 0.09173
+    "score": 0.09172
   },
   {
     "id": 262395224,
@@ -792,7 +822,7 @@
     "open_issues_count": 4087,
     "language": "C#",
     "updated_at": "2025-01-22T23:06:41Z",
-    "score": 0.08847
+    "score": 0.08845
   },
   {
     "id": 135516270,
@@ -807,7 +837,7 @@
     "open_issues_count": 144,
     "language": "Go",
     "updated_at": "2025-01-23T07:29:44Z",
-    "score": 0.08644
+    "score": 0.08642
   },
   {
     "id": 1801829,
@@ -822,7 +852,7 @@
     "open_issues_count": 379,
     "language": "JavaScript",
     "updated_at": "2025-01-23T07:13:04Z",
-    "score": 0.08556
+    "score": 0.08555
   },
   {
     "id": 120896210,
@@ -837,7 +867,7 @@
     "open_issues_count": 3611,
     "language": "Go",
     "updated_at": "2025-01-23T05:54:51Z",
-    "score": 0.08201
+    "score": 0.08199
   },
   {
     "id": 31492490,
@@ -852,7 +882,7 @@
     "open_issues_count": 910,
     "language": "TypeScript",
     "updated_at": "2025-01-23T02:43:28Z",
-    "score": 0.08176
+    "score": 0.08174
   },
   {
     "id": 77144337,
@@ -867,7 +897,7 @@
     "open_issues_count": 34,
     "language": "Go",
     "updated_at": "2025-01-23T04:31:01Z",
-    "score": 0.07904
+    "score": 0.07902
   },
   {
     "id": 3757512,
@@ -882,7 +912,7 @@
     "open_issues_count": 591,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:33:15Z",
-    "score": 0.07713
+    "score": 0.07711
   },
   {
     "id": 149121954,
@@ -897,7 +927,7 @@
     "open_issues_count": 304,
     "language": "Java",
     "updated_at": "2025-01-23T08:41:11Z",
-    "score": 0.07672
+    "score": 0.0767
   },
   {
     "id": 1451352,
@@ -912,7 +942,7 @@
     "open_issues_count": 193,
     "language": "JavaScript",
     "updated_at": "2025-01-23T01:23:45Z",
-    "score": 0.07497
+    "score": 0.07495
   },
   {
     "id": 35726310,
@@ -927,7 +957,7 @@
     "open_issues_count": 8170,
     "language": "Dart",
     "updated_at": "2025-01-23T07:33:15Z",
-    "score": 0.06682
+    "score": 0.0668
   },
   {
     "id": 11008207,
@@ -942,7 +972,7 @@
     "open_issues_count": 819,
     "language": "Go",
     "updated_at": "2025-01-23T08:53:35Z",
-    "score": 0.06648
+    "score": 0.06647
   },
   {
     "id": 927442,
@@ -957,7 +987,7 @@
     "open_issues_count": 1,
     "language": "C",
     "updated_at": "2025-01-23T08:29:27Z",
-    "score": 0.0661
+    "score": 0.06608
   },
   {
     "id": 41349039,
@@ -972,7 +1002,7 @@
     "open_issues_count": 30,
     "language": "Go",
     "updated_at": "2025-01-23T02:14:55Z",
-    "score": 0.06365
+    "score": 0.06363
   },
   {
     "id": 45942274,
@@ -987,7 +1017,22 @@
     "open_issues_count": 281,
     "language": "JavaScript",
     "updated_at": "2025-01-22T03:41:54Z",
-    "score": 0.06279
+    "score": 0.06278
+  },
+  {
+    "id": 16554739,
+    "name": "beats",
+    "full_name": "elastic/beats",
+    "html_url": "https://github.com/elastic/beats",
+    "description": ":tropical_fish: Beats - Lightweight shippers for Elasticsearch \u0026 Logstash ",
+    "stargazers_count": 12246,
+    "forks_count": 4929,
+    "watchers_count": 12246,
+    "subscribers_count": 677,
+    "open_issues_count": 969,
+    "language": "Go",
+    "updated_at": "2025-01-23T02:58:05Z",
+    "score": 0.06101
   },
   {
     "id": 28449431,
@@ -1002,7 +1047,7 @@
     "open_issues_count": 3377,
     "language": "C++",
     "updated_at": "2025-01-23T08:21:10Z",
-    "score": 0.05812
+    "score": 0.0581
   },
   {
     "id": 84240850,
@@ -1017,7 +1062,7 @@
     "open_issues_count": 544,
     "language": "C",
     "updated_at": "2025-01-23T08:50:31Z",
-    "score": 0.05667
+    "score": 0.05665
   },
   {
     "id": 84009,
@@ -1032,7 +1077,7 @@
     "open_issues_count": 8,
     "language": "JavaScript",
     "updated_at": "2025-01-22T12:21:47Z",
-    "score": 0.05449
+    "score": 0.05447
   },
   {
     "id": 13258039,
@@ -1047,7 +1092,7 @@
     "open_issues_count": 246,
     "language": "Python",
     "updated_at": "2025-01-23T08:06:48Z",
-    "score": 0.05043
+    "score": 0.05042
   },
   {
     "id": 24494032,
@@ -1062,7 +1107,7 @@
     "open_issues_count": 3,
     "language": "C++",
     "updated_at": "2025-01-23T07:33:44Z",
-    "score": 0.04961
+    "score": 0.04959
   },
   {
     "id": 2163263,
@@ -1077,7 +1122,7 @@
     "open_issues_count": 85,
     "language": "JavaScript",
     "updated_at": "2025-01-23T03:58:34Z",
-    "score": 0.04861
+    "score": 0.04859
   },
   {
     "id": 37489525,
@@ -1092,7 +1137,7 @@
     "open_issues_count": 921,
     "language": "Python",
     "updated_at": "2025-01-23T03:50:52Z",
-    "score": 0.04695
+    "score": 0.04694
   },
   {
     "id": 2649214,
@@ -1107,7 +1152,7 @@
     "open_issues_count": 787,
     "language": "C++",
     "updated_at": "2025-01-23T07:34:48Z",
-    "score": 0.04586
+    "score": 0.04584
   },
   {
     "id": 206424,
@@ -1122,7 +1167,7 @@
     "open_issues_count": 629,
     "language": "Java",
     "updated_at": "2025-01-23T06:56:06Z",
-    "score": 0.0438
+    "score": 0.04378
   },
   {
     "id": 2560988,
@@ -1137,7 +1182,7 @@
     "open_issues_count": 382,
     "language": "JavaScript",
     "updated_at": "2025-01-23T05:29:05Z",
-    "score": 0.04251
+    "score": 0.04249
   },
   {
     "id": 434708679,
@@ -1152,7 +1197,7 @@
     "open_issues_count": 349,
     "language": "TypeScript",
     "updated_at": "2025-01-23T06:40:52Z",
-    "score": 0.04135
+    "score": 0.04133
   },
   {
     "id": 111241370,
@@ -1167,7 +1212,7 @@
     "open_issues_count": 242,
     "language": "TypeScript",
     "updated_at": "2025-01-23T07:50:12Z",
-    "score": 0.03938
+    "score": 0.03936
   },
   {
     "id": 108278,
@@ -1182,7 +1227,7 @@
     "open_issues_count": 436,
     "language": "Ruby",
     "updated_at": "2025-01-22T17:43:16Z",
-    "score": 0.03487
+    "score": 0.03485
   },
   {
     "id": 21436816,
@@ -1197,7 +1242,7 @@
     "open_issues_count": 125,
     "language": "Shell",
     "updated_at": "2025-01-23T05:52:12Z",
-    "score": 0.03371
+    "score": 0.0337
   },
   {
     "id": 910744,
@@ -1212,7 +1257,7 @@
     "open_issues_count": 73,
     "language": "Ruby",
     "updated_at": "2025-01-22T16:00:10Z",
-    "score": 0.03355
+    "score": 0.03353
   },
   {
     "id": 26726495,
@@ -1227,7 +1272,7 @@
     "open_issues_count": 601,
     "language": "Go",
     "updated_at": "2025-01-23T08:24:29Z",
-    "score": 0.03295
+    "score": 0.03293
   },
   {
     "id": 239940,
@@ -1242,7 +1287,7 @@
     "open_issues_count": 293,
     "language": "Python",
     "updated_at": "2025-01-23T07:14:23Z",
-    "score": 0.03241
+    "score": 0.0324
   },
   {
     "id": 7040500,
@@ -1257,7 +1302,7 @@
     "open_issues_count": 168,
     "language": "Python",
     "updated_at": "2025-01-23T02:36:14Z",
-    "score": 0.03228
+    "score": 0.03226
   },
   {
     "id": 99143276,
@@ -1272,7 +1317,7 @@
     "open_issues_count": 615,
     "language": "Go",
     "updated_at": "2025-01-23T05:16:51Z",
-    "score": 0.03201
+    "score": 0.03199
   },
   {
     "id": 20506004,
@@ -1287,7 +1332,7 @@
     "open_issues_count": 39,
     "language": "Swift",
     "updated_at": "2025-01-22T01:20:32Z",
-    "score": 0.03178
+    "score": 0.03176
   },
   {
     "id": 21591001,
@@ -1302,7 +1347,7 @@
     "open_issues_count": 320,
     "language": "Go",
     "updated_at": "2025-01-22T19:46:31Z",
-    "score": 0.03094
+    "score": 0.03092
   },
   {
     "id": 4072305,
@@ -1317,7 +1362,7 @@
     "open_issues_count": 343,
     "language": "Haskell",
     "updated_at": "2025-01-22T09:58:27Z",
-    "score": 0.02606
+    "score": 0.02604
   },
   {
     "id": 2931111,
@@ -1332,7 +1377,7 @@
     "open_issues_count": 94,
     "language": "JavaScript",
     "updated_at": "2025-01-21T19:33:24Z",
-    "score": 0.02574
+    "score": 0.02573
   },
   {
     "id": 49970739,
@@ -1347,7 +1392,7 @@
     "open_issues_count": 1199,
     "language": "Go",
     "updated_at": "2025-01-23T08:58:21Z",
-    "score": 0.02444
+    "score": 0.02442
   },
   {
     "id": 176278485,
@@ -1362,7 +1407,22 @@
     "open_issues_count": 12,
     "language": "C",
     "updated_at": "2025-01-23T06:41:08Z",
-    "score": 0.02402
+    "score": 0.024
+  },
+  {
+    "id": 206483,
+    "name": "maven",
+    "full_name": "apache/maven",
+    "html_url": "https://github.com/apache/maven",
+    "description": "Apache Maven core",
+    "stargazers_count": 4451,
+    "forks_count": 2696,
+    "watchers_count": 4451,
+    "subscribers_count": 224,
+    "open_issues_count": 78,
+    "language": "Java",
+    "updated_at": "2025-01-22T21:38:24Z",
+    "score": 0.02367
   },
   {
     "id": 110027931,
@@ -1377,7 +1437,7 @@
     "open_issues_count": 106,
     "language": "Go",
     "updated_at": "2025-01-23T07:11:56Z",
-    "score": 0.02366
+    "score": 0.02364
   },
   {
     "id": 101660954,
@@ -1392,7 +1452,7 @@
     "open_issues_count": 24,
     "language": "HCL",
     "updated_at": "2025-01-20T01:22:45Z",
-    "score": 0.02324
+    "score": 0.02322
   },
   {
     "id": 37173512,
@@ -1407,7 +1467,7 @@
     "open_issues_count": 12,
     "language": "Java",
     "updated_at": "2025-01-22T06:34:14Z",
-    "score": 0.02314
+    "score": 0.02312
   },
   {
     "id": 911980,
@@ -1422,7 +1482,7 @@
     "open_issues_count": 1399,
     "language": "Lua",
     "updated_at": "2025-01-22T10:18:08Z",
-    "score": 0.01759
+    "score": 0.01758
   },
   {
     "id": 8183570,
@@ -1437,7 +1497,7 @@
     "open_issues_count": 2319,
     "language": "Perl",
     "updated_at": "2025-01-22T12:34:18Z",
-    "score": 0.01759
+    "score": 0.01758
   },
   {
     "id": 1020639,
@@ -1452,7 +1512,22 @@
     "open_issues_count": 78,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:13Z",
-    "score": 0.0159
+    "score": 0.01588
+  },
+  {
+    "id": 37796696,
+    "name": "common",
+    "full_name": "cucumber/common",
+    "html_url": "https://github.com/cucumber/common",
+    "description": "A home for issues that are common to multiple cucumber repositories",
+    "stargazers_count": 3365,
+    "forks_count": 690,
+    "watchers_count": 3365,
+    "subscribers_count": 216,
+    "open_issues_count": 38,
+    "language": "",
+    "updated_at": "2025-01-22T03:10:52Z",
+    "score": 0.01424
   },
   {
     "id": 2034023,
@@ -1467,7 +1542,7 @@
     "open_issues_count": 134,
     "language": "JavaScript",
     "updated_at": "2025-01-16T05:46:48Z",
-    "score": 0.01035
+    "score": 0.01033
   },
   {
     "id": 57436777,
@@ -1482,7 +1557,7 @@
     "open_issues_count": 255,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:19Z",
-    "score": 0.00774
+    "score": 0.00772
   },
   {
     "id": 14731610,
@@ -1497,7 +1572,7 @@
     "open_issues_count": 26,
     "language": "Ruby",
     "updated_at": "2025-01-23T00:06:37Z",
-    "score": 0.00744
+    "score": 0.00742
   },
   {
     "id": 121366401,
@@ -1512,7 +1587,7 @@
     "open_issues_count": 59,
     "language": "",
     "updated_at": "2025-01-23T04:35:12Z",
-    "score": 0.00264
+    "score": 0.00262
   },
   {
     "id": 19646830,
@@ -1527,81 +1602,6 @@
     "open_issues_count": 0,
     "language": "Go",
     "updated_at": "2018-09-30T14:24:04Z",
-    "score": 0.00002
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
-    "score": 0
-  },
-  {
-    "id": 0,
-    "name": "",
-    "full_name": "",
-    "html_url": "",
-    "description": "",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "open_issues_count": 0,
-    "language": "",
-    "updated_at": "",
     "score": 0
   }
 ]
