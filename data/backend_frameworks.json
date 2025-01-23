@@ -12,7 +12,7 @@
     "open_issues_count": 559,
     "language": "Java",
     "updated_at": "2025-01-22T22:32:40Z",
-    "score": 0.91337
+    "score": 0.91338
   },
   {
     "id": 4164482,
@@ -57,7 +57,7 @@
     "open_issues_count": 837,
     "language": "Go",
     "updated_at": "2025-01-22T21:38:21Z",
-    "score": 0.68696
+    "score": 0.68697
   },
   {
     "id": 596892,
@@ -99,10 +99,10 @@
     "forks_count": 21754,
     "watchers_count": 56332,
     "subscribers_count": 2325,
-    "open_issues_count": 1252,
+    "open_issues_count": 1251,
     "language": "Ruby",
-    "updated_at": "2025-01-22T20:54:55Z",
-    "score": 0.63199
+    "updated_at": "2025-01-22T23:17:42Z",
+    "score": 0.63198
   },
   {
     "id": 80945428,
@@ -110,14 +110,14 @@
     "full_name": "nestjs/nest",
     "html_url": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
-    "stargazers_count": 69038,
+    "stargazers_count": 69039,
     "forks_count": 7727,
-    "watchers_count": 69038,
+    "watchers_count": 69039,
     "subscribers_count": 737,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "language": "TypeScript",
-    "updated_at": "2025-01-22T21:00:37Z",
-    "score": 0.57498
+    "updated_at": "2025-01-22T23:20:09Z",
+    "score": 0.575
   },
   {
     "id": 17620347,
@@ -129,7 +129,7 @@
     "forks_count": 10181,
     "watchers_count": 35847,
     "subscribers_count": 1446,
-    "open_issues_count": 3575,
+    "open_issues_count": 3574,
     "language": "C#",
     "updated_at": "2025-01-22T22:49:47Z",
     "score": 0.41763
@@ -180,21 +180,6 @@
     "score": 0.30205
   },
   {
-    "id": 3757512,
-    "name": "sails",
-    "full_name": "balderdashy/sails",
-    "html_url": "https://github.com/balderdashy/sails",
-    "description": "Realtime MVC Framework for Node.js",
-    "stargazers_count": 22871,
-    "forks_count": 1949,
-    "watchers_count": 22871,
-    "subscribers_count": 638,
-    "open_issues_count": 591,
-    "language": "JavaScript",
-    "updated_at": "2025-01-22T19:33:15Z",
-    "score": 0.20653
-  },
-  {
     "id": 33702544,
     "name": "dash",
     "full_name": "plotly/dash",
@@ -208,6 +193,21 @@
     "language": "Python",
     "updated_at": "2025-01-22T21:35:39Z",
     "score": 0.19253
+  },
+  {
+    "id": 13258039,
+    "name": "aiohttp",
+    "full_name": "aio-libs/aiohttp",
+    "html_url": "https://github.com/aio-libs/aiohttp",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+    "stargazers_count": 15347,
+    "forks_count": 2055,
+    "watchers_count": 15347,
+    "subscribers_count": 218,
+    "open_issues_count": 246,
+    "language": "Python",
+    "updated_at": "2025-01-22T15:04:18Z",
+    "score": 0.1348
   },
   {
     "id": 2163263,

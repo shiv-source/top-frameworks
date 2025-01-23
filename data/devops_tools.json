@@ -6,13 +6,13 @@
     "html_url": "https://github.com/kubernetes/kubernetes",
     "description": "Production-Grade Container Scheduling and Management",
     "stargazers_count": 112523,
-    "forks_count": 40077,
+    "forks_count": 40078,
     "watchers_count": 112523,
     "subscribers_count": 3215,
-    "open_issues_count": 2532,
+    "open_issues_count": 2533,
     "language": "Go",
-    "updated_at": "2025-01-22T22:37:07Z",
-    "score": 0.98514
+    "updated_at": "2025-01-22T23:55:13Z",
+    "score": 0.98515
   },
   {
     "id": 7691631,
@@ -65,14 +65,14 @@
     "full_name": "hashicorp/terraform",
     "html_url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "stargazers_count": 43864,
+    "stargazers_count": 43866,
     "forks_count": 9638,
-    "watchers_count": 43864,
+    "watchers_count": 43866,
     "subscribers_count": 1158,
     "open_issues_count": 1983,
     "language": "Go",
-    "updated_at": "2025-01-22T22:16:19Z",
-    "score": 0.35755
+    "updated_at": "2025-01-22T23:57:37Z",
+    "score": 0.35756
   },
   {
     "id": 26783295,
@@ -95,14 +95,14 @@
     "full_name": "helm/helm",
     "html_url": "https://github.com/helm/helm",
     "description": "The Kubernetes Package Manager",
-    "stargazers_count": 27333,
-    "forks_count": 7164,
-    "watchers_count": 27333,
+    "stargazers_count": 27334,
+    "forks_count": 7165,
+    "watchers_count": 27334,
     "subscribers_count": 521,
     "open_issues_count": 776,
     "language": "Go",
-    "updated_at": "2025-01-22T22:40:07Z",
-    "score": 0.21741
+    "updated_at": "2025-01-23T00:12:39Z",
+    "score": 0.21742
   },
   {
     "id": 1103607,
@@ -110,13 +110,13 @@
     "full_name": "jenkinsci/jenkins",
     "html_url": "https://github.com/jenkinsci/jenkins",
     "description": "Jenkins automation server",
-    "stargazers_count": 23505,
+    "stargazers_count": 23506,
     "forks_count": 8901,
-    "watchers_count": 23505,
+    "watchers_count": 23506,
     "subscribers_count": 867,
     "open_issues_count": 86,
     "language": "Java",
-    "updated_at": "2025-01-22T23:02:32Z",
+    "updated_at": "2025-01-23T00:12:22Z",
     "score": 0.20902
   },
   {
@@ -140,14 +140,14 @@
     "full_name": "hashicorp/vagrant",
     "html_url": "https://github.com/hashicorp/vagrant",
     "description": "Vagrant is a tool for building and distributing development environments.",
-    "stargazers_count": 26426,
+    "stargazers_count": 26427,
     "forks_count": 4436,
-    "watchers_count": 26426,
+    "watchers_count": 26427,
     "subscribers_count": 720,
     "open_issues_count": 768,
     "language": "Ruby",
-    "updated_at": "2025-01-22T13:54:20Z",
-    "score": 0.20163
+    "updated_at": "2025-01-22T23:41:44Z",
+    "score": 0.20164
   },
   {
     "id": 2500088,
@@ -162,7 +162,7 @@
     "open_issues_count": 36,
     "language": "Ruby",
     "updated_at": "2025-01-22T21:49:06Z",
-    "score": 0.19361
+    "score": 0.1936
   },
   {
     "id": 120896210,
@@ -170,14 +170,14 @@
     "full_name": "argoproj/argo-cd",
     "html_url": "https://github.com/argoproj/argo-cd",
     "description": "Declarative Continuous Deployment for Kubernetes",
-    "stargazers_count": 18492,
+    "stargazers_count": 18494,
     "forks_count": 5654,
-    "watchers_count": 18492,
+    "watchers_count": 18494,
     "subscribers_count": 183,
     "open_issues_count": 3603,
     "language": "Go",
-    "updated_at": "2025-01-22T21:59:19Z",
-    "score": 0.18957
+    "updated_at": "2025-01-23T00:12:08Z",
+    "score": 0.18958
   },
   {
     "id": 135516270,
@@ -189,10 +189,25 @@
     "forks_count": 2373,
     "watchers_count": 28614,
     "subscribers_count": 285,
-    "open_issues_count": 147,
+    "open_issues_count": 144,
     "language": "Go",
     "updated_at": "2025-01-22T19:14:32Z",
-    "score": 0.17828
+    "score": 0.17824
+  },
+  {
+    "id": 77144337,
+    "name": "faas",
+    "full_name": "openfaas/faas",
+    "html_url": "https://github.com/openfaas/faas",
+    "description": "OpenFaaS - Serverless Functions Made Simple",
+    "stargazers_count": 25347,
+    "forks_count": 1944,
+    "watchers_count": 25347,
+    "subscribers_count": 476,
+    "open_issues_count": 34,
+    "language": "Go",
+    "updated_at": "2025-01-22T21:20:34Z",
+    "score": 0.16256
   },
   {
     "id": 16554739,
@@ -207,22 +222,22 @@
     "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-22T16:23:16Z",
-    "score": 0.13055
+    "score": 0.13054
   },
   {
-    "id": 108278,
-    "name": "chef",
-    "full_name": "chef/chef",
-    "html_url": "https://github.com/chef/chef",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
-    "stargazers_count": 7648,
-    "forks_count": 2511,
-    "watchers_count": 7648,
-    "subscribers_count": 368,
-    "open_issues_count": 439,
-    "language": "Ruby",
-    "updated_at": "2025-01-22T17:43:16Z",
-    "score": 0.07398
+    "id": 21436816,
+    "name": "spinnaker",
+    "full_name": "spinnaker/spinnaker",
+    "html_url": "https://github.com/spinnaker/spinnaker",
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
+    "stargazers_count": 9391,
+    "forks_count": 1208,
+    "watchers_count": 9391,
+    "subscribers_count": 342,
+    "open_issues_count": 125,
+    "language": "Shell",
+    "updated_at": "2025-01-22T19:02:16Z",
+    "score": 0.06998
   },
   {
     "id": 99143276,
@@ -281,7 +296,7 @@
     "subscribers_count": 565,
     "open_issues_count": 1202,
     "language": "Go",
-    "updated_at": "2025-01-22T23:14:21Z",
+    "updated_at": "2025-01-23T00:01:18Z",
     "score": 0.05769
   },
   {
@@ -298,21 +313,6 @@
     "language": "Go",
     "updated_at": "2025-01-22T14:12:54Z",
     "score": 0.04913
-  },
-  {
-    "id": 101660954,
-    "name": "terraform-aws-vpc",
-    "full_name": "terraform-aws-modules/terraform-aws-vpc",
-    "html_url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-    "description": "Terraform module to create AWS VPC resources 🇺🇦",
-    "stargazers_count": 3020,
-    "forks_count": 4464,
-    "watchers_count": 3020,
-    "subscribers_count": 80,
-    "open_issues_count": 24,
-    "language": "HCL",
-    "updated_at": "2025-01-20T01:22:45Z",
-    "score": 0.04677
   },
   {
     "id": 0,
