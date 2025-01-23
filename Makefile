@@ -2,10 +2,10 @@ start:
 	go run main.go
 
 run:
-	./main
+	./build/main
 
 build:
-	go build main.go
+	go build -o build/main main.go
 
 clean:
-	rm -rf data readme.md main
+	rm -rf data readme.md build
