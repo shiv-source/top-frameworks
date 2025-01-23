@@ -5,14 +5,14 @@
     "full_name": "nodejs/node",
     "html_url": "https://github.com/nodejs/node",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "stargazers_count": 109095,
+    "stargazers_count": 109096,
     "forks_count": 30337,
-    "watchers_count": 109095,
+    "watchers_count": 109096,
     "subscribers_count": 2934,
     "open_issues_count": 2118,
     "language": "JavaScript",
-    "updated_at": "2025-01-23T07:27:41Z",
-    "score": 0.9552
+    "updated_at": "2025-01-23T08:37:01Z",
+    "score": 0.95519
   },
   {
     "id": 20929025,
@@ -20,13 +20,13 @@
     "full_name": "microsoft/TypeScript",
     "html_url": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "stargazers_count": 101886,
+    "stargazers_count": 101888,
     "forks_count": 12616,
-    "watchers_count": 101886,
+    "watchers_count": 101888,
     "subscribers_count": 2132,
     "open_issues_count": 5992,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T07:04:31Z",
+    "updated_at": "2025-01-23T09:02:49Z",
     "score": 0.76324
   },
   {
@@ -35,14 +35,14 @@
     "full_name": "rust-lang/rust",
     "html_url": "https://github.com/rust-lang/rust",
     "description": "Empowering everyone to build reliable and efficient software.",
-    "stargazers_count": 100667,
+    "stargazers_count": 100666,
     "forks_count": 13008,
-    "watchers_count": 100667,
+    "watchers_count": 100666,
     "subscribers_count": 1475,
-    "open_issues_count": 10601,
+    "open_issues_count": 10603,
     "language": "Rust",
-    "updated_at": "2025-01-23T07:11:51Z",
-    "score": 0.75904
+    "updated_at": "2025-01-23T09:04:43Z",
+    "score": 0.75903
   },
   {
     "id": 81598961,
@@ -54,10 +54,10 @@
     "forks_count": 30930,
     "watchers_count": 64861,
     "subscribers_count": 1523,
-    "open_issues_count": 8988,
+    "open_issues_count": 8990,
     "language": "Python",
     "updated_at": "2025-01-23T07:42:20Z",
-    "score": 0.70101
+    "score": 0.701
   },
   {
     "id": 44838949,
@@ -65,14 +65,14 @@
     "full_name": "swiftlang/swift",
     "html_url": "https://github.com/swiftlang/swift",
     "description": "The Swift Programming Language",
-    "stargazers_count": 67932,
+    "stargazers_count": 67933,
     "forks_count": 10398,
-    "watchers_count": 67932,
+    "watchers_count": 67933,
     "subscribers_count": 2458,
     "open_issues_count": 7948,
     "language": "C++",
-    "updated_at": "2025-01-23T06:32:03Z",
-    "score": 0.57891
+    "updated_at": "2025-01-23T08:56:27Z",
+    "score": 0.5789
   },
   {
     "id": 3432266,
@@ -80,14 +80,14 @@
     "full_name": "JetBrains/kotlin",
     "html_url": "https://github.com/JetBrains/kotlin",
     "description": "The Kotlin Programming Language. ",
-    "stargazers_count": 49841,
+    "stargazers_count": 49843,
     "forks_count": 5822,
-    "watchers_count": 49841,
+    "watchers_count": 49843,
     "subscribers_count": 1506,
     "open_issues_count": 172,
     "language": "Kotlin",
-    "updated_at": "2025-01-23T07:25:36Z",
-    "score": 0.37329
+    "updated_at": "2025-01-23T08:39:24Z",
+    "score": 0.3733
   },
   {
     "id": 1903522,
@@ -126,13 +126,13 @@
     "html_url": "https://github.com/openjdk/jdk",
     "description": "JDK main-line development https://openjdk.org/projects/jdk",
     "stargazers_count": 20314,
-    "forks_count": 5671,
+    "forks_count": 5670,
     "watchers_count": 20314,
     "subscribers_count": 336,
-    "open_issues_count": 307,
+    "open_issues_count": 304,
     "language": "Java",
-    "updated_at": "2025-01-23T05:05:27Z",
-    "score": 0.17042
+    "updated_at": "2025-01-23T08:41:11Z",
+    "score": 0.1704
   },
   {
     "id": 35726310,
@@ -144,10 +144,10 @@
     "forks_count": 1608,
     "watchers_count": 10399,
     "subscribers_count": 288,
-    "open_issues_count": 8169,
+    "open_issues_count": 8170,
     "language": "Dart",
     "updated_at": "2025-01-23T07:33:15Z",
-    "score": 0.1185
+    "score": 0.11849
   },
   {
     "id": 4072305,

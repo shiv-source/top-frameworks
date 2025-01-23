@@ -6,13 +6,13 @@
     "html_url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "stargazers_count": 168107,
-    "forks_count": 27922,
+    "forks_count": 27923,
     "watchers_count": 168107,
     "subscribers_count": 3511,
-    "open_issues_count": 13393,
+    "open_issues_count": 13395,
     "language": "Dart",
     "updated_at": "2025-01-23T07:23:36Z",
-    "score": 0.99775
+    "score": 0.99772
   },
   {
     "id": 29028775,
@@ -21,9 +21,9 @@
     "html_url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "stargazers_count": 120244,
-    "forks_count": 24444,
+    "forks_count": 24445,
     "watchers_count": 120244,
-    "subscribers_count": 3591,
+    "subscribers_count": 3592,
     "open_issues_count": 878,
     "language": "C++",
     "updated_at": "2025-01-23T07:08:10Z",
@@ -42,7 +42,7 @@
     "open_issues_count": 545,
     "language": "TypeScript",
     "updated_at": "2025-01-23T07:20:26Z",
-    "score": 0.34771
+    "score": 0.34769
   },
   {
     "id": 262395224,
@@ -54,7 +54,7 @@
     "forks_count": 1790,
     "watchers_count": 22389,
     "subscribers_count": 641,
-    "open_issues_count": 4085,
+    "open_issues_count": 4087,
     "language": "C#",
     "updated_at": "2025-01-22T23:06:41Z",
     "score": 0.12548
@@ -72,7 +72,7 @@
     "open_issues_count": 910,
     "language": "TypeScript",
     "updated_at": "2025-01-23T02:43:28Z",
-    "score": 0.12017
+    "score": 0.12016
   },
   {
     "id": 111241370,
@@ -80,14 +80,14 @@
     "full_name": "ionic-team/capacitor",
     "html_url": "https://github.com/ionic-team/capacitor",
     "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
-    "stargazers_count": 12606,
-    "forks_count": 1022,
-    "watchers_count": 12606,
+    "stargazers_count": 12608,
+    "forks_count": 1023,
+    "watchers_count": 12608,
     "subscribers_count": 173,
-    "open_issues_count": 239,
+    "open_issues_count": 242,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T07:31:37Z",
-    "score": 0.05595
+    "updated_at": "2025-01-23T07:50:12Z",
+    "score": 0.05598
   },
   {
     "id": 121366401,
