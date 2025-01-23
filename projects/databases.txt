@@ -4,7 +4,7 @@
 https://github.com/apache/cassandra
 https://github.com/arangodb/arangodb
 https://github.com/cockroachdb/cockroach
-https://github.com/dgraph-io/dgraph
+https://github.com/hypermodeinc/dgraph
 https://github.com/elastic/elasticsearch
 https://github.com/etcd-io/etcd
 https://github.com/influxdata/influxdb
@@ -15,5 +15,5 @@ https://github.com/redis/redis
 https://github.com/scylladb/scylla
 https://github.com/sqlite/sqlite
 https://github.com/tarantool/tarantool
-https://github.com/TimescaleDB/TimescaleDB
+https://github.com/timescale/timescaledb
 https://github.com/vitessio/vitess
