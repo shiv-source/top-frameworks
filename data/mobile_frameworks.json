@@ -5,13 +5,13 @@
     "full_name": "flutter/flutter",
     "html_url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-    "stargazers_count": 168103,
+    "stargazers_count": 168107,
     "forks_count": 27922,
-    "watchers_count": 168103,
+    "watchers_count": 168107,
     "subscribers_count": 3511,
-    "open_issues_count": 13396,
+    "open_issues_count": 13393,
     "language": "Dart",
-    "updated_at": "2025-01-23T01:03:14Z",
+    "updated_at": "2025-01-23T07:23:36Z",
     "score": 0.99775
   },
   {
@@ -20,14 +20,14 @@
     "full_name": "facebook/react-native",
     "html_url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
-    "stargazers_count": 120242,
-    "forks_count": 24443,
-    "watchers_count": 120242,
+    "stargazers_count": 120244,
+    "forks_count": 24444,
+    "watchers_count": 120244,
     "subscribers_count": 3591,
-    "open_issues_count": 882,
+    "open_issues_count": 878,
     "language": "C++",
-    "updated_at": "2025-01-23T00:38:00Z",
-    "score": 0.75038
+    "updated_at": "2025-01-23T07:08:10Z",
+    "score": 0.75037
   },
   {
     "id": 12256376,
@@ -41,8 +41,8 @@
     "subscribers_count": 1594,
     "open_issues_count": 545,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T00:15:17Z",
-    "score": 0.34772
+    "updated_at": "2025-01-23T07:20:26Z",
+    "score": 0.34771
   },
   {
     "id": 262395224,
@@ -54,10 +54,10 @@
     "forks_count": 1790,
     "watchers_count": 22389,
     "subscribers_count": 641,
-    "open_issues_count": 4082,
+    "open_issues_count": 4084,
     "language": "C#",
     "updated_at": "2025-01-22T23:06:41Z",
-    "score": 0.12547
+    "score": 0.12548
   },
   {
     "id": 31492490,
@@ -71,7 +71,7 @@
     "subscribers_count": 658,
     "open_issues_count": 910,
     "language": "TypeScript",
-    "updated_at": "2025-01-22T23:59:36Z",
+    "updated_at": "2025-01-23T02:43:28Z",
     "score": 0.12017
   },
   {
@@ -80,14 +80,14 @@
     "full_name": "ionic-team/capacitor",
     "html_url": "https://github.com/ionic-team/capacitor",
     "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
-    "stargazers_count": 12595,
+    "stargazers_count": 12605,
     "forks_count": 1022,
-    "watchers_count": 12595,
+    "watchers_count": 12605,
     "subscribers_count": 173,
     "open_issues_count": 239,
     "language": "TypeScript",
-    "updated_at": "2025-01-22T17:59:02Z",
-    "score": 0.05592
+    "updated_at": "2025-01-23T07:04:16Z",
+    "score": 0.05595
   },
   {
     "id": 121366401,
@@ -95,13 +95,13 @@
     "full_name": "apache/cordova",
     "html_url": "https://github.com/apache/cordova",
     "description": "Apache Cordova",
-    "stargazers_count": 642,
+    "stargazers_count": 643,
     "forks_count": 68,
-    "watchers_count": 642,
+    "watchers_count": 643,
     "subscribers_count": 36,
     "open_issues_count": 59,
     "language": "",
-    "updated_at": "2025-01-23T00:57:26Z",
+    "updated_at": "2025-01-23T04:35:12Z",
     "score": 0
   }
 ]
