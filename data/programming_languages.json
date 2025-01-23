@@ -12,7 +12,7 @@
     "open_issues_count": 2118,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:37:01Z",
-    "score": 0.95519
+    "score": 0.95699
   },
   {
     "id": 20929025,
@@ -27,22 +27,7 @@
     "open_issues_count": 5992,
     "language": "TypeScript",
     "updated_at": "2025-01-23T09:02:49Z",
-    "score": 0.76324
-  },
-  {
-    "id": 724712,
-    "name": "rust",
-    "full_name": "rust-lang/rust",
-    "html_url": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "stargazers_count": 100666,
-    "forks_count": 13008,
-    "watchers_count": 100666,
-    "subscribers_count": 1475,
-    "open_issues_count": 10603,
-    "language": "Rust",
-    "updated_at": "2025-01-23T09:04:43Z",
-    "score": 0.75903
+    "score": 0.76832
   },
   {
     "id": 81598961,
@@ -57,7 +42,7 @@
     "open_issues_count": 8990,
     "language": "Python",
     "updated_at": "2025-01-23T07:42:20Z",
-    "score": 0.701
+    "score": 0.70863
   },
   {
     "id": 44838949,
@@ -72,7 +57,7 @@
     "open_issues_count": 7948,
     "language": "C++",
     "updated_at": "2025-01-23T08:56:27Z",
-    "score": 0.57894
+    "score": 0.58567
   },
   {
     "id": 3432266,
@@ -87,7 +72,7 @@
     "open_issues_count": 172,
     "language": "Kotlin",
     "updated_at": "2025-01-23T08:39:24Z",
-    "score": 0.3733
+    "score": 0.37347
   },
   {
     "id": 1903522,
@@ -102,7 +87,7 @@
     "open_issues_count": 1305,
     "language": "C",
     "updated_at": "2025-01-23T05:59:38Z",
-    "score": 0.32809
+    "score": 0.32922
   },
   {
     "id": 538746,
@@ -117,7 +102,7 @@
     "open_issues_count": 426,
     "language": "Ruby",
     "updated_at": "2025-01-23T07:11:35Z",
-    "score": 0.20517
+    "score": 0.20555
   },
   {
     "id": 149121954,
@@ -132,7 +117,7 @@
     "open_issues_count": 304,
     "language": "Java",
     "updated_at": "2025-01-23T08:41:11Z",
-    "score": 0.1704
+    "score": 0.17069
   },
   {
     "id": 35726310,
@@ -147,7 +132,7 @@
     "open_issues_count": 8170,
     "language": "Dart",
     "updated_at": "2025-01-23T07:33:15Z",
-    "score": 0.11849
+    "score": 0.12544
   },
   {
     "id": 4072305,
@@ -162,7 +147,7 @@
     "open_issues_count": 343,
     "language": "Haskell",
     "updated_at": "2025-01-22T09:58:27Z",
-    "score": 0.05557
+    "score": 0.0559
   },
   {
     "id": 8183570,
@@ -177,7 +162,7 @@
     "open_issues_count": 2319,
     "language": "Perl",
     "updated_at": "2025-01-22T12:34:18Z",
-    "score": 0.03096
+    "score": 0.03296
   },
   {
     "id": 19646830,
@@ -192,6 +177,21 @@
     "open_issues_count": 0,
     "language": "Go",
     "updated_at": "2018-09-30T14:24:04Z",
+    "score": 0.00004
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
     "score": 0
   }
 ]

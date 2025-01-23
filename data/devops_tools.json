@@ -12,7 +12,7 @@
     "open_issues_count": 2536,
     "language": "Go",
     "updated_at": "2025-01-23T09:00:24Z",
-    "score": 0.98502
+    "score": 0.98511
   },
   {
     "id": 7691631,
@@ -27,7 +27,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-23T05:38:39Z",
-    "score": 0.61307
+    "score": 0.62278
   },
   {
     "id": 3638964,
@@ -42,22 +42,7 @@
     "open_issues_count": 867,
     "language": "Python",
     "updated_at": "2025-01-23T08:34:14Z",
-    "score": 0.5497
-  },
-  {
-    "id": 6838921,
-    "name": "prometheus",
-    "full_name": "prometheus/prometheus",
-    "html_url": "https://github.com/prometheus/prometheus",
-    "description": "The Prometheus monitoring system and time series database.",
-    "stargazers_count": 56935,
-    "forks_count": 9316,
-    "watchers_count": 56935,
-    "subscribers_count": 1123,
-    "open_issues_count": 718,
-    "language": "Go",
-    "updated_at": "2025-01-23T08:22:13Z",
-    "score": 0.39206
+    "score": 0.56041
   },
   {
     "id": 17728164,
@@ -65,14 +50,14 @@
     "full_name": "hashicorp/terraform",
     "html_url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "stargazers_count": 43883,
+    "stargazers_count": 43884,
     "forks_count": 9638,
-    "watchers_count": 43883,
+    "watchers_count": 43884,
     "subscribers_count": 1158,
     "open_issues_count": 1984,
     "language": "Go",
-    "updated_at": "2025-01-23T09:03:00Z",
-    "score": 0.3414
+    "updated_at": "2025-01-23T09:08:51Z",
+    "score": 0.35759
   },
   {
     "id": 26783295,
@@ -87,7 +72,7 @@
     "open_issues_count": 144,
     "language": "Lua",
     "updated_at": "2025-01-23T08:59:51Z",
-    "score": 0.25845
+    "score": 0.27621
   },
   {
     "id": 43723161,
@@ -102,7 +87,7 @@
     "open_issues_count": 776,
     "language": "Go",
     "updated_at": "2025-01-23T02:36:25Z",
-    "score": 0.19781
+    "score": 0.21736
   },
   {
     "id": 1103607,
@@ -117,7 +102,7 @@
     "open_issues_count": 83,
     "language": "Java",
     "updated_at": "2025-01-23T08:40:05Z",
-    "score": 0.18935
+    "score": 0.20899
   },
   {
     "id": 26337322,
@@ -132,22 +117,7 @@
     "open_issues_count": 3038,
     "language": "Go",
     "updated_at": "2025-01-23T08:03:38Z",
-    "score": 0.18659
-  },
-  {
-    "id": 481872,
-    "name": "vagrant",
-    "full_name": "hashicorp/vagrant",
-    "html_url": "https://github.com/hashicorp/vagrant",
-    "description": "Vagrant is a tool for building and distributing development environments.",
-    "stargazers_count": 26428,
-    "forks_count": 4436,
-    "watchers_count": 26428,
-    "subscribers_count": 720,
-    "open_issues_count": 768,
-    "language": "Ruby",
-    "updated_at": "2025-01-23T05:49:54Z",
-    "score": 0.18168
+    "score": 0.20698
   },
   {
     "id": 2500088,
@@ -162,7 +132,7 @@
     "open_issues_count": 36,
     "language": "Ruby",
     "updated_at": "2025-01-23T07:43:07Z",
-    "score": 0.17361
+    "score": 0.19359
   },
   {
     "id": 120896210,
@@ -177,7 +147,7 @@
     "open_issues_count": 3611,
     "language": "Go",
     "updated_at": "2025-01-23T05:54:51Z",
-    "score": 0.1685
+    "score": 0.18955
   },
   {
     "id": 135516270,
@@ -192,7 +162,7 @@
     "open_issues_count": 144,
     "language": "Go",
     "updated_at": "2025-01-23T07:29:44Z",
-    "score": 0.15793
+    "score": 0.17824
   },
   {
     "id": 77144337,
@@ -207,7 +177,7 @@
     "open_issues_count": 34,
     "language": "Go",
     "updated_at": "2025-01-23T04:31:01Z",
-    "score": 0.14184
+    "score": 0.16255
   },
   {
     "id": 16554739,
@@ -222,7 +192,7 @@
     "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-23T02:58:05Z",
-    "score": 0.1086
+    "score": 0.13051
   },
   {
     "id": 108278,
@@ -237,7 +207,7 @@
     "open_issues_count": 436,
     "language": "Ruby",
     "updated_at": "2025-01-22T17:43:16Z",
-    "score": 0.0507
+    "score": 0.07392
   },
   {
     "id": 21436816,
@@ -252,7 +222,7 @@
     "open_issues_count": 125,
     "language": "Shell",
     "updated_at": "2025-01-23T05:52:12Z",
-    "score": 0.04676
+    "score": 0.06998
   },
   {
     "id": 99143276,
@@ -267,7 +237,7 @@
     "open_issues_count": 615,
     "language": "Go",
     "updated_at": "2025-01-23T05:16:51Z",
-    "score": 0.04598
+    "score": 0.06934
   },
   {
     "id": 910744,
@@ -282,7 +252,7 @@
     "open_issues_count": 73,
     "language": "Ruby",
     "updated_at": "2025-01-22T16:00:10Z",
-    "score": 0.04585
+    "score": 0.0691
   },
   {
     "id": 21591001,
@@ -297,7 +267,7 @@
     "open_issues_count": 320,
     "language": "Go",
     "updated_at": "2025-01-22T19:46:31Z",
-    "score": 0.04205
+    "score": 0.06544
   },
   {
     "id": 49970739,
@@ -312,7 +282,7 @@
     "open_issues_count": 1199,
     "language": "Go",
     "updated_at": "2025-01-23T08:58:21Z",
-    "score": 0.03374
+    "score": 0.05761
   },
   {
     "id": 110027931,
@@ -327,7 +297,7 @@
     "open_issues_count": 106,
     "language": "Go",
     "updated_at": "2025-01-23T07:11:56Z",
-    "score": 0.02537
+    "score": 0.04913
   },
   {
     "id": 101660954,
@@ -342,6 +312,36 @@
     "open_issues_count": 24,
     "language": "HCL",
     "updated_at": "2025-01-20T01:22:45Z",
-    "score": 0.0229
+    "score": 0.04677
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   }
 ]

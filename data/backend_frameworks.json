@@ -12,7 +12,7 @@
     "open_issues_count": 561,
     "language": "Java",
     "updated_at": "2025-01-23T09:05:19Z",
-    "score": 0.91233
+    "score": 0.91343
   },
   {
     "id": 4164482,
@@ -27,7 +27,7 @@
     "open_issues_count": 307,
     "language": "Python",
     "updated_at": "2025-01-23T09:06:23Z",
-    "score": 0.86778
+    "score": 0.86885
   },
   {
     "id": 1148753,
@@ -42,7 +42,7 @@
     "open_issues_count": 300,
     "language": "Java",
     "updated_at": "2025-01-23T07:31:48Z",
-    "score": 0.7513
+    "score": 0.75577
   },
   {
     "id": 20904437,
@@ -57,7 +57,7 @@
     "open_issues_count": 838,
     "language": "Go",
     "updated_at": "2025-01-23T08:18:53Z",
-    "score": 0.68379
+    "score": 0.68697
   },
   {
     "id": 596892,
@@ -72,7 +72,7 @@
     "open_issues_count": 6,
     "language": "Python",
     "updated_at": "2025-01-23T06:59:34Z",
-    "score": 0.66034
+    "score": 0.66466
   },
   {
     "id": 237159,
@@ -87,22 +87,7 @@
     "open_issues_count": 194,
     "language": "JavaScript",
     "updated_at": "2025-01-23T08:46:49Z",
-    "score": 0.63712
-  },
-  {
-    "id": 8514,
-    "name": "rails",
-    "full_name": "rails/rails",
-    "html_url": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "stargazers_count": 56334,
-    "forks_count": 21755,
-    "watchers_count": 56334,
-    "subscribers_count": 2324,
-    "open_issues_count": 1249,
-    "language": "Ruby",
-    "updated_at": "2025-01-23T09:01:53Z",
-    "score": 0.6259
+    "score": 0.64201
   },
   {
     "id": 80945428,
@@ -117,7 +102,7 @@
     "open_issues_count": 43,
     "language": "TypeScript",
     "updated_at": "2025-01-23T08:55:51Z",
-    "score": 0.56958
+    "score": 0.57496
   },
   {
     "id": 17620347,
@@ -132,7 +117,7 @@
     "open_issues_count": 3573,
     "language": "C#",
     "updated_at": "2025-01-23T08:58:34Z",
-    "score": 0.40712
+    "score": 0.4176
   },
   {
     "id": 7548986,
@@ -147,7 +132,7 @@
     "open_issues_count": 64,
     "language": "PHP",
     "updated_at": "2025-01-23T07:49:13Z",
-    "score": 0.32812
+    "score": 0.33934
   },
   {
     "id": 11551538,
@@ -162,7 +147,7 @@
     "open_issues_count": 30,
     "language": "JavaScript",
     "updated_at": "2025-01-22T16:54:15Z",
-    "score": 0.29181
+    "score": 0.30314
   },
   {
     "id": 3577919,
@@ -177,7 +162,7 @@
     "open_issues_count": 11,
     "language": "Go",
     "updated_at": "2025-01-23T07:31:18Z",
-    "score": 0.2904
+    "score": 0.30204
   },
   {
     "id": 3757512,
@@ -192,7 +177,7 @@
     "open_issues_count": 591,
     "language": "JavaScript",
     "updated_at": "2025-01-22T19:33:15Z",
-    "score": 0.19291
+    "score": 0.20652
   },
   {
     "id": 13258039,
@@ -207,7 +192,7 @@
     "open_issues_count": 246,
     "language": "Python",
     "updated_at": "2025-01-23T08:06:48Z",
-    "score": 0.1197
+    "score": 0.13479
   },
   {
     "id": 2163263,
@@ -222,7 +207,7 @@
     "open_issues_count": 85,
     "language": "JavaScript",
     "updated_at": "2025-01-23T03:58:34Z",
-    "score": 0.11362
+    "score": 0.12878
   },
   {
     "id": 26726495,
@@ -237,7 +222,7 @@
     "open_issues_count": 601,
     "language": "Go",
     "updated_at": "2025-01-23T08:24:29Z",
-    "score": 0.07393
+    "score": 0.09008
   },
   {
     "id": 7040500,
@@ -252,7 +237,7 @@
     "open_issues_count": 168,
     "language": "Python",
     "updated_at": "2025-01-23T02:36:14Z",
-    "score": 0.06978
+    "score": 0.0859
   },
   {
     "id": 239940,
@@ -267,7 +252,7 @@
     "open_issues_count": 293,
     "language": "Python",
     "updated_at": "2025-01-23T07:14:23Z",
-    "score": 0.06837
+    "score": 0.08461
   },
   {
     "id": 37173512,
@@ -282,22 +267,7 @@
     "open_issues_count": 12,
     "language": "Java",
     "updated_at": "2025-01-22T06:34:14Z",
-    "score": 0.04186
-  },
-  {
-    "id": 206483,
-    "name": "maven",
-    "full_name": "apache/maven",
-    "html_url": "https://github.com/apache/maven",
-    "description": "Apache Maven core",
-    "stargazers_count": 4451,
-    "forks_count": 2696,
-    "watchers_count": 4451,
-    "subscribers_count": 224,
-    "open_issues_count": 78,
-    "language": "Java",
-    "updated_at": "2025-01-22T21:38:24Z",
-    "score": 0.0399
+    "score": 0.0586
   },
   {
     "id": 1020639,
@@ -312,7 +282,7 @@
     "open_issues_count": 78,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:13Z",
-    "score": 0.02354
+    "score": 0.04066
   },
   {
     "id": 57436777,
@@ -327,6 +297,36 @@
     "open_issues_count": 255,
     "language": "Python",
     "updated_at": "2025-01-22T21:41:19Z",
-    "score": 0.00349
+    "score": 0.02105
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
+    "score": 0
   }
 ]
