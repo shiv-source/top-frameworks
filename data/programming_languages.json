@@ -5,13 +5,13 @@
     "full_name": "nodejs/node",
     "html_url": "https://github.com/nodejs/node",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "stargazers_count": 109094,
+    "stargazers_count": 109095,
     "forks_count": 30337,
-    "watchers_count": 109094,
+    "watchers_count": 109095,
     "subscribers_count": 2934,
     "open_issues_count": 2118,
     "language": "JavaScript",
-    "updated_at": "2025-01-23T06:45:11Z",
+    "updated_at": "2025-01-23T07:27:41Z",
     "score": 0.9552
   },
   {
@@ -39,7 +39,7 @@
     "forks_count": 13008,
     "watchers_count": 100667,
     "subscribers_count": 1475,
-    "open_issues_count": 10602,
+    "open_issues_count": 10601,
     "language": "Rust",
     "updated_at": "2025-01-23T07:11:51Z",
     "score": 0.75904
@@ -50,14 +50,14 @@
     "full_name": "python/cpython",
     "html_url": "https://github.com/python/cpython",
     "description": "The Python programming language",
-    "stargazers_count": 64860,
+    "stargazers_count": 64861,
     "forks_count": 30930,
-    "watchers_count": 64860,
+    "watchers_count": 64861,
     "subscribers_count": 1523,
     "open_issues_count": 8988,
     "language": "Python",
-    "updated_at": "2025-01-23T07:00:54Z",
-    "score": 0.701
+    "updated_at": "2025-01-23T07:42:20Z",
+    "score": 0.70101
   },
   {
     "id": 44838949,
@@ -86,7 +86,7 @@
     "subscribers_count": 1506,
     "open_issues_count": 172,
     "language": "Kotlin",
-    "updated_at": "2025-01-23T07:00:56Z",
+    "updated_at": "2025-01-23T07:25:36Z",
     "score": 0.37329
   },
   {
@@ -102,7 +102,7 @@
     "open_issues_count": 1305,
     "language": "C",
     "updated_at": "2025-01-23T05:59:38Z",
-    "score": 0.3281
+    "score": 0.32809
   },
   {
     "id": 538746,
@@ -144,10 +144,10 @@
     "forks_count": 1608,
     "watchers_count": 10399,
     "subscribers_count": 288,
-    "open_issues_count": 8168,
+    "open_issues_count": 8169,
     "language": "Dart",
-    "updated_at": "2025-01-23T04:27:02Z",
-    "score": 0.11849
+    "updated_at": "2025-01-23T07:33:15Z",
+    "score": 0.1185
   },
   {
     "id": 4072305,

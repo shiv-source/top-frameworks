@@ -12,7 +12,7 @@
     "open_issues_count": 2534,
     "language": "Go",
     "updated_at": "2025-01-23T07:11:57Z",
-    "score": 0.98501
+    "score": 0.985
   },
   {
     "id": 7691631,
@@ -27,7 +27,7 @@
     "open_issues_count": 3513,
     "language": "Go",
     "updated_at": "2025-01-23T05:38:39Z",
-    "score": 0.6131
+    "score": 0.61309
   },
   {
     "id": 3638964,
@@ -50,13 +50,13 @@
     "full_name": "prometheus/prometheus",
     "html_url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
-    "stargazers_count": 56933,
+    "stargazers_count": 56934,
     "forks_count": 9316,
-    "watchers_count": 56933,
+    "watchers_count": 56934,
     "subscribers_count": 1123,
     "open_issues_count": 717,
     "language": "Go",
-    "updated_at": "2025-01-23T07:06:14Z",
+    "updated_at": "2025-01-23T07:40:17Z",
     "score": 0.39204
   },
   {
@@ -132,7 +132,7 @@
     "open_issues_count": 3037,
     "language": "Go",
     "updated_at": "2025-01-23T04:21:16Z",
-    "score": 0.18661
+    "score": 0.18659
   },
   {
     "id": 481872,
@@ -147,7 +147,7 @@
     "open_issues_count": 768,
     "language": "Ruby",
     "updated_at": "2025-01-23T05:49:54Z",
-    "score": 0.18169
+    "score": 0.18168
   },
   {
     "id": 2500088,
@@ -161,7 +161,7 @@
     "subscribers_count": 962,
     "open_issues_count": 36,
     "language": "Ruby",
-    "updated_at": "2025-01-23T06:43:23Z",
+    "updated_at": "2025-01-23T07:43:07Z",
     "score": 0.17361
   },
   {
@@ -174,7 +174,7 @@
     "forks_count": 5653,
     "watchers_count": 18492,
     "subscribers_count": 183,
-    "open_issues_count": 3609,
+    "open_issues_count": 3610,
     "language": "Go",
     "updated_at": "2025-01-23T05:54:51Z",
     "score": 0.1685
@@ -185,14 +185,14 @@
     "full_name": "k3s-io/k3s",
     "html_url": "https://github.com/k3s-io/k3s",
     "description": "Lightweight Kubernetes",
-    "stargazers_count": 28614,
-    "forks_count": 2374,
-    "watchers_count": 28614,
+    "stargazers_count": 28615,
+    "forks_count": 2375,
+    "watchers_count": 28615,
     "subscribers_count": 285,
     "open_issues_count": 144,
     "language": "Go",
-    "updated_at": "2025-01-23T06:14:17Z",
-    "score": 0.15792
+    "updated_at": "2025-01-23T07:29:44Z",
+    "score": 0.15793
   },
   {
     "id": 77144337,
@@ -222,7 +222,7 @@
     "open_issues_count": 969,
     "language": "Go",
     "updated_at": "2025-01-23T02:58:05Z",
-    "score": 0.10861
+    "score": 0.1086
   },
   {
     "id": 108278,

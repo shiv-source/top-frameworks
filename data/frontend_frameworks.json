@@ -21,7 +21,7 @@
     "html_url": "https://github.com/twbs/bootstrap",
     "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
     "stargazers_count": 171252,
-    "forks_count": 78974,
+    "forks_count": 78973,
     "watchers_count": 171252,
     "subscribers_count": 6719,
     "open_issues_count": 659,
@@ -35,13 +35,13 @@
     "full_name": "vuejs/vue",
     "html_url": "https://github.com/vuejs/vue",
     "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-    "stargazers_count": 208264,
+    "stargazers_count": 208263,
     "forks_count": 33706,
-    "watchers_count": 208264,
+    "watchers_count": 208263,
     "subscribers_count": 5857,
     "open_issues_count": 600,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T07:23:38Z",
+    "updated_at": "2025-01-23T07:31:17Z",
     "score": 0.7333
   },
   {
@@ -57,7 +57,7 @@
     "open_issues_count": 1719,
     "language": "TypeScript",
     "updated_at": "2025-01-23T06:30:04Z",
-    "score": 0.37398
+    "score": 0.37399
   },
   {
     "id": 167174,
@@ -125,14 +125,14 @@
     "full_name": "nuxt/nuxt",
     "html_url": "https://github.com/nuxt/nuxt",
     "description": "The Intuitive Vue Framework.",
-    "stargazers_count": 55810,
+    "stargazers_count": 55809,
     "forks_count": 5098,
-    "watchers_count": 55810,
+    "watchers_count": 55809,
     "subscribers_count": 793,
     "open_issues_count": 906,
     "language": "TypeScript",
-    "updated_at": "2025-01-23T05:16:27Z",
-    "score": 0.12642
+    "updated_at": "2025-01-23T07:40:35Z",
+    "score": 0.12641
   },
   {
     "id": 1801829,
