@@ -5,29 +5,14 @@
     "full_name": "flutter/flutter",
     "html_url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-    "stargazers_count": 168305,
-    "forks_count": 27992,
-    "watchers_count": 168305,
-    "subscribers_count": 3508,
-    "open_issues_count": 13320,
+    "stargazers_count": 168321,
+    "forks_count": 27998,
+    "watchers_count": 168321,
+    "subscribers_count": 3507,
+    "open_issues_count": 13314,
     "language": "Dart",
-    "updated_at": "2025-02-04T01:02:27Z",
-    "score": 0.99761
-  },
-  {
-    "id": 29028775,
-    "name": "react-native",
-    "full_name": "facebook/react-native",
-    "html_url": "https://github.com/facebook/react-native",
-    "description": "A framework for building native applications using React",
-    "stargazers_count": 120395,
-    "forks_count": 24463,
-    "watchers_count": 120395,
-    "subscribers_count": 3593,
-    "open_issues_count": 892,
-    "language": "C++",
-    "updated_at": "2025-02-04T00:53:43Z",
-    "score": 0.75009
+    "updated_at": "2025-02-05T00:45:04Z",
+    "score": 1
   },
   {
     "id": 12256376,
@@ -35,14 +20,14 @@
     "full_name": "ionic-team/ionic-framework",
     "html_url": "https://github.com/ionic-team/ionic-framework",
     "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
-    "stargazers_count": 51377,
+    "stargazers_count": 51374,
     "forks_count": 13483,
-    "watchers_count": 51377,
+    "watchers_count": 51374,
     "subscribers_count": 1595,
     "open_issues_count": 558,
     "language": "TypeScript",
-    "updated_at": "2025-02-03T23:15:38Z",
-    "score": 0.34736
+    "updated_at": "2025-02-04T23:31:09Z",
+    "score": 0.3511
   },
   {
     "id": 262395224,
@@ -50,29 +35,29 @@
     "full_name": "dotnet/maui",
     "html_url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
-    "stargazers_count": 22421,
+    "stargazers_count": 22423,
     "forks_count": 1791,
-    "watchers_count": 22421,
+    "watchers_count": 22423,
     "subscribers_count": 642,
-    "open_issues_count": 4125,
+    "open_issues_count": 4122,
     "language": "C#",
-    "updated_at": "2025-02-04T00:01:52Z",
-    "score": 0.12572
+    "updated_at": "2025-02-05T00:26:14Z",
+    "score": 0.12971
   },
   {
     "id": 31492490,
     "name": "NativeScript",
     "full_name": "NativeScript/NativeScript",
     "html_url": "https://github.com/NativeScript/NativeScript",
-    "description": "⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.",
-    "stargazers_count": 24486,
+    "description": "⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.",
+    "stargazers_count": 24490,
     "forks_count": 1645,
-    "watchers_count": 24486,
+    "watchers_count": 24490,
     "subscribers_count": 657,
     "open_issues_count": 909,
     "language": "TypeScript",
-    "updated_at": "2025-02-03T21:34:01Z",
-    "score": 0.12009
+    "updated_at": "2025-02-04T21:35:29Z",
+    "score": 0.12413
   },
   {
     "id": 111241370,
@@ -80,14 +65,14 @@
     "full_name": "ionic-team/capacitor",
     "html_url": "https://github.com/ionic-team/capacitor",
     "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
-    "stargazers_count": 12658,
+    "stargazers_count": 12659,
     "forks_count": 1027,
-    "watchers_count": 12658,
+    "watchers_count": 12659,
     "subscribers_count": 172,
-    "open_issues_count": 257,
+    "open_issues_count": 246,
     "language": "TypeScript",
-    "updated_at": "2025-02-03T20:40:39Z",
-    "score": 0.05614
+    "updated_at": "2025-02-04T18:39:42Z",
+    "score": 0.06012
   },
   {
     "id": 121366401,
@@ -102,6 +87,21 @@
     "open_issues_count": 60,
     "language": "",
     "updated_at": "2025-01-26T09:29:20Z",
+    "score": 0.00416
+  },
+  {
+    "id": 0,
+    "name": "",
+    "full_name": "",
+    "html_url": "",
+    "description": "",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "open_issues_count": 0,
+    "language": "",
+    "updated_at": "",
     "score": 0
   }
 ]
