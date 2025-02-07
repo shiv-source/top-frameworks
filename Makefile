@@ -8,4 +8,10 @@ build:
 	go build -o build/main main.go
 
 clean:
-	rm -rf data readme.md build
+	rm -rf build data readme.md
+
+clean-build:
+	rm -rf build
+
+clean-stack:
+	rm -rf data readme.md

@@ -45,29 +45,41 @@ func LoadUrlsFromTxtFile(txtFileName string) []string {
 	return urls
 }
 
-func MakeAuthenticatedGETRequest[T any](url, accessToken string) (*T, error) {
+func MakeAuthenticatedGETRequest[T any](url, token string) (*T, error) {
+	startTime := time.Now()
+
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
-		return nil, fmt.Errorf("error creating request: %v", err)
+		fmt.Printf("ERROR -> Execution time: [%.6f seconds] Failed to create request URL: [%s]\n", time.Since(startTime).Seconds(), url)
+		return nil, fmt.Errorf("failed to create request: %w", err)
 	}
 
-	req.Header.Add("Authorization", fmt.Sprintf("Bearer %s", accessToken))
+	req.Header.Add("Authorization", fmt.Sprintf("Bearer %s", token))
 
 	client := &http.Client{Timeout: 10 * time.Second}
 
 	res, err := client.Do(req)
 	if err != nil {
-		return nil, fmt.Errorf("error making GET request: %v", err)
+		fmt.Printf("ERROR -> Execution time: [%.6f seconds] Failed to send request URL: [%s]\n", time.Since(startTime).Seconds(), url)
+		return nil, fmt.Errorf("failed to send request: %w", err)
 	}
 	defer res.Body.Close()
 
+	fmt.Printf("Status: [%d] Execution time: [%.6f seconds] Fetching URL: [%s]\n", res.StatusCode, time.Since(startTime).Seconds(), url)
+
+	if res.StatusCode < 200 || res.StatusCode >= 300 {
+		return nil, fmt.Errorf("request failed with status: %s", res.Status)
+	}
+
 	body, err := io.ReadAll(res.Body)
 	if err != nil {
-		return nil, fmt.Errorf("error reading response body: %v", err)
+		fmt.Printf("ERROR -> Execution time: [%.6f seconds] Failed to read response body URL: [%s]\n", time.Since(startTime).Seconds(), url)
+		return nil, fmt.Errorf("failed to read response body: %w", err)
 	}
 
 	var result T
 	if err := json.Unmarshal(body, &result); err != nil {
+		fmt.Printf("ERROR -> Execution time: [%.6f seconds] Error un-marshalling response body URL: [%s]\n", time.Since(startTime).Seconds(), url)
 		return nil, fmt.Errorf("error un-marshalling response body: %v", err)
 	}
 

@@ -1,0 +1,32 @@
+name: Bot
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # 2:00 AM every day.
+
+permissions:
+  contents: write
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  update_tech_stack:
+    runs-on: ubuntu-latest
+    if: github.repository == 'shiv-source/TechTracker-test'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Delete existing stack data
+        run: make clean-stack
+
+      - name: Run executable
+        run: make run
+
+      - name: Commit and Push Updated Stack
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "chore: 📝 update tech stack"
+          git push -u origin master

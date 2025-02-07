@@ -51,7 +51,7 @@ func main() {
 	const outputDir = "data"
 	const templateFile = "template.md"
 	const outputTemplateFile = "readme.md"
-	accessToken := os.Getenv("MY_GITHUB_ACCESS_TOKEN")
+	accessToken := os.Getenv("GITHUB_TOKEN")
 
 	configurations := utils.LoadJSONFromFile[[]Config](configFile)
 	if configurations == nil || len(*configurations) == 0 {
