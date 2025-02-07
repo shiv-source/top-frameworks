@@ -13,7 +13,7 @@ env:
 jobs:
   update_tech_stack:
     runs-on: ubuntu-latest
-    if: github.repository == 'shiv-source/TechTracker-test'
+    if: github.repository == 'shiv-source/TechTracker'
     steps:
       - uses: actions/checkout@v4
 
